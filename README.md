@@ -5,22 +5,35 @@ I am a recent graduate with a profound interest in technology and a dedication t
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for web- and mobile-application development, with particular expertise in healthcare technology solutions, and I am now eager to transition into this field.
+My journey in computer science has led me to develop a passion for web- and mobile-application development, with particular expertise in healthcare technology solutions and high-performance web applications. I am eager to apply my skills in building scalable, user-centric applications.
 
 ## Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Cross-Platform Mobile Development (Flutter/Dart) | <a href="https://github.com/yourusername/Diabetes-Management-Assistant">Diabetes Tracking Platform</a>|
-| Healthcare Technology Integration (CGM APIs) | <a href="https://github.com/yourusername/Diabetes-Management-Assistant">Diabetes Tracking Platform</a>|
-| AI-Assisted Development & Architecture       | <a href="https://github.com/yourusername/Diabetes-Management-Assistant">Diabetes Tracking Platform</a>|
-| Real-Time Data Analytics & Visualization     | <a href="https://github.com/yourusername/Diabetes-Management-Assistant">Diabetes Tracking Platform</a>|
-| Advanced State Management (Riverpod)         | <a href="https://github.com/yourusername/Diabetes-Management-Assistant">Diabetes Tracking Platform</a>|
-| Secure Authentication & Data Handling        | <a href="https://github.com/yourusername/Diabetes-Management-Assistant">Diabetes Tracking Platform</a>|
-| Medical Device API Integration               | <a href="https://github.com/yourusername/Diabetes-Management-Assistant">Diabetes Tracking Platform</a>|
-| Python Analytics Integration                 | <a href="https://github.com/yourusername/Diabetes-Management-Assistant">Diabetes Tracking Platform</a>|
+| Full-Stack Web Development (Next.js/React)   | <a href="https://github.com/justindeisler/Photography-Portfolio-with-Admin-CMS">Photography Portfolio with Admin CMS</a>|
+| Advanced Performance Optimization            | <a href="https://github.com/justindeisler/Photography-Portfolio-with-Admin-CMS">Photography Portfolio with Admin CMS</a>|
+| Database Optimization (Supabase/PostgreSQL)  | <a href="https://github.com/justindeisler/Photography-Portfolio-with-Admin-CMS">Photography Portfolio with Admin CMS</a>|
+| Server-Side Rendering & SEO                  | <a href="https://github.com/justindeisler/Photography-Portfolio-with-Admin-CMS">Photography Portfolio with Admin CMS</a>|
+| TypeScript & Strict Type Safety              | <a href="https://github.com/justindeisler/Photography-Portfolio-with-Admin-CMS">Photography Portfolio with Admin CMS</a>|
+| Component Architecture & Design Systems      | <a href="https://github.com/justindeisler/Photography-Portfolio-with-Admin-CMS">Photography Portfolio with Admin CMS</a>|
+| Cross-Platform Mobile Development (Flutter/Dart) | <a href="https://github.com/justindeisler/Diabetes-Management-Assistant">Diabetes Tracking Platform</a>|
+| Healthcare Technology Integration (CGM APIs) | <a href="https://github.com/justindeisler/Diabetes-Management-Assistant">Diabetes Tracking Platform</a>|
+| AI-Assisted Development & Architecture       | <a href="https://github.com/justindeisler/Diabetes-Management-Assistant">Diabetes Tracking Platform</a> & <a href="https://github.com/yourusername/Photography-Portfolio-with-Admin-CMS">Photography Portfolio with Admin CMS</a>|
+| Real-Time Data Analytics & Visualization     | <a href="https://github.com/justindeisler/Diabetes-Management-Assistant">Diabetes Tracking Platform</a>|
+| Advanced State Management (Riverpod)         | <a href="https://github.com/justindeisler/Diabetes-Management-Assistant">Diabetes Tracking Platform</a>|
+| Secure Authentication & Data Handling        | <a href="https://github.com/justindeisler/Diabetes-Management-Assistant">Diabetes Tracking Platform</a> & <a href="https://github.com/yourusername/Photography-Portfolio-with-Admin-CMS">Photography Portfolio with Admin CMS</a>|
+| Medical Device API Integration               | <a href="https://github.com/justindeisler/Diabetes-Management-Assistant">Diabetes Tracking Platform</a>|
 
 ## Tools
+
+### Web Development
+<div>
+    <img src="https://img.shields.io/badge/-Next.js-000000?&style=for-the-badge&logo=nextdotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/-React-61DAFB?&style=for-the-badge&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/-TypeScript-3178C6?&style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?&style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</div>
 
 ### Mobile Development
 <div>
@@ -29,11 +42,28 @@ My journey in computer science has led me to develop a passion for web- and mobi
     <img src="https://img.shields.io/badge/-Material_Design-757575?&style=for-the-badge&logo=materialdesign&logoColor=white" />
 </div>
 
+### Backend & Database
+<div>
+    <img src="https://img.shields.io/badge/-Supabase-3ECF8E?&style=for-the-badge&logo=supabase&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?&style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/-REST_APIs-009688?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-JWT_Authentication-000000?&style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+</div>
+
 ### Development Tools
 <div>
     <img src="https://img.shields.io/badge/-Claude_Code-FF6B35?&style=for-the-badge&logo=anthropic&logoColor=white" />
     <img src="https://img.shields.io/badge/-VS_Code-007ACC?&style=for-the-badge&logo=visualstudiocode&logoColor=white" />
     <img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Vercel-000000?&style=for-the-badge&logo=vercel&logoColor=white" />
+</div>
+
+### Performance & Optimization
+<div>
+    <img src="https://img.shields.io/badge/-Server_Side_Rendering-000000?&style=for-the-badge&logo=nextdotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Code_Splitting-61DAFB?&style=for-the-badge&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Lazy_Loading-3178C6?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CDN_Integration-FF5722?&style=for-the-badge&logoColor=white" />
 </div>
 
 ### State Management
@@ -48,13 +78,6 @@ My journey in computer science has led me to develop a passion for web- and mobi
     <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/-Data_Visualization-FF6B6B?&style=for-the-badge&logo=chartdotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/-Real_Time_Analytics-FF9500?&style=for-the-badge&logoColor=white" />
-</div>
-
-### Backend Integration
-<div>
-    <img src="https://img.shields.io/badge/-REST_APIs-009688?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-JWT_Authentication-000000?&style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Secure_Storage-4CAF50?&style=for-the-badge&logo=security&logoColor=white" />
 </div>
 
 ### Healthcare Integration
@@ -94,6 +117,40 @@ My journey in computer science has led me to develop a passion for web- and mobi
 </div>
 
 ## Projects
+
+### Photography Portfolio with Admin CMS
+
+**High-performance, production-ready photography portfolio with integrated content management system featuring:**
+
+- **Advanced Performance Optimization**: 5x faster builds (50s → 10s), 88% bundle size reduction (23.7kB → 2.81kB), 2.5MB database optimization
+- **Full-Stack Architecture**: Next.js 15.3.3 with App Router, TypeScript strict mode, Tailwind CSS v4, Supabase backend (PostgreSQL, Auth, Storage)
+- **Server-Side Rendering**: SEO-optimized with React Server Components and strategic client component extraction
+- **Database Optimization**: Connection pooling, parallel queries, intelligent timeout handling with graceful fallbacks
+- **Admin CMS Excellence**: 90% code reduction through shared components, hooks, and centralized API layer
+- **Image Optimization**: Migration from base64 to Supabase Storage, CDN delivery, progressive loading with blur placeholders
+- **Production Deployment**: Zero TypeScript errors, successful Vercel deployments with continuous integration
+
+*Developed using AI-assisted workflows with Claude Code for architecture design, performance optimization, and debugging while maintaining full technical ownership and architectural decision-making. Showcases systematic problem-solving and comprehensive optimization across database, bundle size, and component architecture.*
+
+**Technical Highlights:**
+- React Server Components with strategic client-side interactivity
+- Code splitting and lazy loading (Framer Motion, Lightbox)
+- Database query optimization (5 queries/2 round trips → 4 queries/1 round trip)
+- Supabase Authentication with protected route middleware
+- Shared component library (`useImageUpload`, `useAdminCRUD`, `AdminForm`)
+- Design token system for consistent theming
+- Comprehensive error handling with graceful degradation
+- HEIC image conversion and Next.js Image optimization
+
+**Key Achievements:**
+- Achieved 100% build success rate (from ~60% with timeouts)
+- Reduced First Load JS from 209kB to 154kB (26% improvement)
+- Eliminated 90% of admin code duplication through shared components
+- Implemented production-ready migration system for data transformation
+- Fixed critical TypeScript compilation and routing bugs
+- Created professional admin interface with optimistic updates
+
+---
 
 ### Diabetes Management Assistant
 
