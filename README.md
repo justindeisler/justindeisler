@@ -1,13 +1,9 @@
 # Hello, I'm Justin
 <a href="https://linkedin.com/in/justin-deisler"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction]
-
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
-
-[Objective]
 
 My journey in computer science has led me to develop a passion for web- and mobile-application development, with particular expertise in healthcare technology solutions, and I am now eager to transition into this field.
 
