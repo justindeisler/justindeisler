@@ -74,6 +74,19 @@ My journey in computer science has led me to develop a passion for AI-powered ap
     <img src="https://img.shields.io/badge/-JWT_Authentication-000000?&style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 </div>
 
+### Server & Infrastructure
+<div>
+    <img src="https://img.shields.io/badge/-Ubuntu_Server-E95420?&style=for-the-badge&logo=ubuntu&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nginx-009639?&style=for-the-badge&logo=nginx&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PM2-2B037A?&style=for-the-badge&logo=pm2&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Let's_Encrypt-003A70?&style=for-the-badge&logo=letsencrypt&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cloudflare-F38020?&style=for-the-badge&logo=cloudflare&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cloudflare_Tunnel-F38020?&style=for-the-badge&logo=cloudflare&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Systemd-009639?&style=for-the-badge&logo=linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-UFW_Firewall-E95420?&style=for-the-badge&logo=ubuntu&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SSH-4D4D4D?&style=for-the-badge&logo=ssh&logoColor=white" />
+</div>
+
 ### Container & Orchestration
 <div>
     <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=docker&logoColor=white" />
@@ -88,6 +101,13 @@ My journey in computer science has led me to develop a passion for AI-powered ap
     <img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/-Vercel-000000?&style=for-the-badge&logo=vercel&logoColor=white" />
     <img src="https://img.shields.io/badge/-Make-427819?&style=for-the-badge&logo=gnu&logoColor=white" />
+</div>
+
+### DNS & Domain Management
+<div>
+    <img src="https://img.shields.io/badge/-Cloudflare_DNS-F38020?&style=for-the-badge&logo=cloudflare&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CNAME_Records-4285F4?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nameserver_Management-FF6B35?&style=for-the-badge&logoColor=white" />
 </div>
 
 ### Testing
@@ -208,9 +228,10 @@ My journey in computer science has led me to develop a passion for AI-powered ap
 - **Database Optimization**: Connection pooling, parallel queries, intelligent timeout handling with graceful fallbacks
 - **Admin CMS Excellence**: 90% code reduction through shared components, hooks, and centralized API layer
 - **Image Optimization**: Migration from base64 to Supabase Storage, CDN delivery, progressive loading with blur placeholders
-- **Production Deployment**: Zero TypeScript errors, successful Vercel deployments with continuous integration
+- **Production Infrastructure**: Self-hosted on Ubuntu Server 24.04 with Nginx reverse proxy, PM2 process management, PostgreSQL database, SSL certificates via Let's Encrypt, and Cloudflare Tunnel for secure global access
+- **DevOps Excellence**: Automated service startup with systemd, firewall configuration with UFW, DNS management via Cloudflare, and production-ready deployment bypassing ISP restrictions
 
-*Developed using AI-assisted workflows with Claude Code for architecture design, performance optimization, and debugging while maintaining full technical ownership and architectural decision-making. Showcases systematic problem-solving and comprehensive optimization across database, bundle size, and component architecture.*
+*Developed using AI-assisted workflows with Claude Code for architecture design, performance optimization, infrastructure setup, and debugging while maintaining full technical ownership and architectural decision-making. Showcases systematic problem-solving across application development, database optimization, and production server deployment.*
 
 **Technical Highlights:**
 - React Server Components with strategic client-side interactivity
@@ -221,6 +242,14 @@ My journey in computer science has led me to develop a passion for AI-powered ap
 - Design token system for consistent theming
 - Comprehensive error handling with graceful degradation
 - HEIC image conversion and Next.js Image optimization
+- Ubuntu Server with Nginx reverse proxy configuration
+- PM2 process management with automatic restart capabilities
+- Let's Encrypt SSL/TLS certificate management with auto-renewal
+- Cloudflare Tunnel integration bypassing ISP port blocking
+- Systemd service management for all critical services
+- PostgreSQL 16 production database with connection pooling
+- UFW firewall configuration and network security
+- DNS management with CNAME records and nameserver delegation
 
 **Key Achievements:**
 - Achieved 100% build success rate (from ~60% with timeouts)
@@ -229,6 +258,11 @@ My journey in computer science has led me to develop a passion for AI-powered ap
 - Implemented production-ready migration system for data transformation
 - Fixed critical TypeScript compilation and routing bugs
 - Created professional admin interface with optimistic updates
+- Successfully deployed to self-hosted Ubuntu server with enterprise-grade reliability
+- Configured Cloudflare Tunnel to bypass residential ISP restrictions
+- Implemented automatic SSL certificate renewal and service auto-start on reboot
+- Established secure, production-ready infrastructure with proper firewall rules
+- Achieved global accessibility through Cloudflare CDN with zero downtime
 
 ---
 
