@@ -5,27 +5,45 @@ I am a recent graduate with a profound interest in technology and a dedication t
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for web- and mobile-application development, with particular expertise in healthcare technology solutions and high-performance web applications. I am eager to apply my skills in building scalable, user-centric applications.
+My journey in computer science has led me to develop a passion for AI-powered applications, web and mobile development, with particular expertise in healthcare technology solutions, high-performance web applications, and intelligent agent systems. I am eager to apply my skills in building scalable, user-centric applications that leverage cutting-edge AI technologies.
 
 ## Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Full-Stack Web Development (Next.js/React)   | <a href="https://github.com/justindeisler/Photography-Portfolio-with-Admin-CMS">Photography Portfolio with Admin CMS</a>|
+| AI Agent Architecture & LangGraph            | <a href="https://github.com/justindeisler/AI-Powered-Investment-Research-Agent">AI-Powered Investment Research Agent</a>|
+| Large Language Model Integration (Gemini)    | <a href="https://github.com/justindeisler/AI-Powered-Investment-Research-Agent">AI-Powered Investment Research Agent</a>|
+| RAG System Design & Implementation           | <a href="https://github.com/justindeisler/AI-Powered-Investment-Research-Agent">AI-Powered Investment Research Agent</a>|
+| Real-Time Streaming (SSE/WebSockets)         | <a href="https://github.com/justindeisler/AI-Powered-Investment-Research-Agent">AI-Powered Investment Research Agent</a>|
+| Microservices Architecture & Orchestration   | <a href="https://github.com/justindeisler/AI-Powered-Investment-Research-Agent">AI-Powered Investment Research Agent</a>|
+| Docker & Container Orchestration             | <a href="https://github.com/justindeisler/AI-Powered-Investment-Research-Agent">AI-Powered Investment Research Agent</a>|
+| FastAPI & Modern Python Backend              | <a href="https://github.com/justindeisler/AI-Powered-Investment-Research-Agent">AI-Powered Investment Research Agent</a>|
+| Full-Stack Web Development (Next.js/React)   | <a href="https://github.com/justindeisler/Photography-Portfolio-with-Admin-CMS">Photography Portfolio with Admin CMS</a> & <a href="https://github.com/justindeisler/AI-Powered-Investment-Research-Agent">AI-Powered Investment Research Agent</a>|
 | Advanced Performance Optimization            | <a href="https://github.com/justindeisler/Photography-Portfolio-with-Admin-CMS">Photography Portfolio with Admin CMS</a>|
-| Database Optimization (Supabase/PostgreSQL)  | <a href="https://github.com/justindeisler/Photography-Portfolio-with-Admin-CMS">Photography Portfolio with Admin CMS</a>|
+| Database Optimization (Supabase/PostgreSQL)  | <a href="https://github.com/justindeisler/Photography-Portfolio-with-Admin-CMS">Photography Portfolio with Admin CMS</a> & <a href="https://github.com/justindeisler/AI-Powered-Investment-Research-Agent">AI-Powered Investment Research Agent</a>|
 | Server-Side Rendering & SEO                  | <a href="https://github.com/justindeisler/Photography-Portfolio-with-Admin-CMS">Photography Portfolio with Admin CMS</a>|
-| TypeScript & Strict Type Safety              | <a href="https://github.com/justindeisler/Photography-Portfolio-with-Admin-CMS">Photography Portfolio with Admin CMS</a>|
-| Component Architecture & Design Systems      | <a href="https://github.com/justindeisler/Photography-Portfolio-with-Admin-CMS">Photography Portfolio with Admin CMS</a>|
+| TypeScript & Strict Type Safety              | <a href="https://github.com/justindeisler/Photography-Portfolio-with-Admin-CMS">Photography Portfolio with Admin CMS</a> & <a href="https://github.com/justindeisler/AI-Powered-Investment-Research-Agent">AI-Powered Investment Research Agent</a>|
+| Component Architecture & Design Systems      | <a href="https://github.com/justindeisler/Photography-Portfolio-with-Admin-CMS">Photography Portfolio with Admin CMS</a> & <a href="https://github.com/justindeisler/AI-Powered-Investment-Research-Agent">AI-Powered Investment Research Agent</a>|
 | Cross-Platform Mobile Development (Flutter/Dart) | <a href="https://github.com/justindeisler/Diabetes-Management-Assistant">Diabetes Tracking Platform</a>|
 | Healthcare Technology Integration (CGM APIs) | <a href="https://github.com/justindeisler/Diabetes-Management-Assistant">Diabetes Tracking Platform</a>|
-| AI-Assisted Development & Architecture       | <a href="https://github.com/justindeisler/Diabetes-Management-Assistant">Diabetes Tracking Platform</a> & <a href="https://github.com/yourusername/Photography-Portfolio-with-Admin-CMS">Photography Portfolio with Admin CMS</a>|
+| AI-Assisted Development & Architecture       | <a href="https://github.com/justindeisler/Diabetes-Management-Assistant">Diabetes Tracking Platform</a>, <a href="https://github.com/justindeisler/Photography-Portfolio-with-Admin-CMS">Photography Portfolio with Admin CMS</a> & <a href="https://github.com/justindeisler/AI-Powered-Investment-Research-Agent">AI-Powered Investment Research Agent</a>|
 | Real-Time Data Analytics & Visualization     | <a href="https://github.com/justindeisler/Diabetes-Management-Assistant">Diabetes Tracking Platform</a>|
 | Advanced State Management (Riverpod)         | <a href="https://github.com/justindeisler/Diabetes-Management-Assistant">Diabetes Tracking Platform</a>|
-| Secure Authentication & Data Handling        | <a href="https://github.com/justindeisler/Diabetes-Management-Assistant">Diabetes Tracking Platform</a> & <a href="https://github.com/yourusername/Photography-Portfolio-with-Admin-CMS">Photography Portfolio with Admin CMS</a>|
+| Secure Authentication & Data Handling        | <a href="https://github.com/justindeisler/Diabetes-Management-Assistant">Diabetes Tracking Platform</a> & <a href="https://github.com/justindeisler/Photography-Portfolio-with-Admin-CMS">Photography Portfolio with Admin CMS</a>|
 | Medical Device API Integration               | <a href="https://github.com/justindeisler/Diabetes-Management-Assistant">Diabetes Tracking Platform</a>|
+| Redis & Pub-Sub Architecture                 | <a href="https://github.com/justindeisler/AI-Powered-Investment-Research-Agent">AI-Powered Investment Research Agent</a>|
+| State Management in AI Systems               | <a href="https://github.com/justindeisler/AI-Powered-Investment-Research-Agent">AI-Powered Investment Research Agent</a>|
 
 ## Tools
+
+### AI & Machine Learning
+<div>
+    <img src="https://img.shields.io/badge/-Google_Gemini-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LangGraph-1C3C3C?&style=for-the-badge&logo=langchain&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LangChain-1C3C3C?&style=for-the-badge&logo=langchain&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LangSmith-00A67E?&style=for-the-badge&logo=langchain&logoColor=white" />
+    <img src="https://img.shields.io/badge/-RAG_Systems-FF6B35?&style=for-the-badge&logoColor=white" />
+</div>
 
 ### Web Development
 <div>
@@ -33,6 +51,8 @@ My journey in computer science has led me to develop a passion for web- and mobi
     <img src="https://img.shields.io/badge/-React-61DAFB?&style=for-the-badge&logo=react&logoColor=black" />
     <img src="https://img.shields.io/badge/-TypeScript-3178C6?&style=for-the-badge&logo=typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?&style=for-the-badge&logo=tailwindcss&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Vite-646CFF?&style=for-the-badge&logo=vite&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Shadcn_UI-000000?&style=for-the-badge&logo=shadcnui&logoColor=white" />
 </div>
 
 ### Mobile Development
@@ -44,10 +64,21 @@ My journey in computer science has led me to develop a passion for web- and mobi
 
 ### Backend & Database
 <div>
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-FastAPI-009688?&style=for-the-badge&logo=fastapi&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Pydantic-E92063?&style=for-the-badge&logo=pydantic&logoColor=white" />
     <img src="https://img.shields.io/badge/-Supabase-3ECF8E?&style=for-the-badge&logo=supabase&logoColor=white" />
     <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?&style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Redis-DC382D?&style=for-the-badge&logo=redis&logoColor=white" />
     <img src="https://img.shields.io/badge/-REST_APIs-009688?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-JWT_Authentication-000000?&style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+</div>
+
+### Container & Orchestration
+<div>
+    <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Docker_Compose-2496ED?&style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microservices-FF6B35?&style=for-the-badge&logoColor=white" />
 </div>
 
 ### Development Tools
@@ -56,14 +87,23 @@ My journey in computer science has led me to develop a passion for web- and mobi
     <img src="https://img.shields.io/badge/-VS_Code-007ACC?&style=for-the-badge&logo=visualstudiocode&logoColor=white" />
     <img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/-Vercel-000000?&style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Make-427819?&style=for-the-badge&logo=gnu&logoColor=white" />
+</div>
+
+### Testing
+<div>
+    <img src="https://img.shields.io/badge/-pytest-0A9EDC?&style=for-the-badge&logo=pytest&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Vitest-6E9F18?&style=for-the-badge&logo=vitest&logoColor=white" />
 </div>
 
 ### Performance & Optimization
 <div>
     <img src="https://img.shields.io/badge/-Server_Side_Rendering-000000?&style=for-the-badge&logo=nextdotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Server_Sent_Events-FF6B35?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-Code_Splitting-61DAFB?&style=for-the-badge&logo=react&logoColor=black" />
     <img src="https://img.shields.io/badge/-Lazy_Loading-3178C6?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-CDN_Integration-FF5722?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Streaming_APIs-009688?&style=for-the-badge&logoColor=white" />
 </div>
 
 ### State Management
@@ -71,6 +111,7 @@ My journey in computer science has led me to develop a passion for web- and mobi
     <img src="https://img.shields.io/badge/-Riverpod-00D4AA?&style=for-the-badge&logo=flutter&logoColor=white" />
     <img src="https://img.shields.io/badge/-Code_Generation-0175C2?&style=for-the-badge&logo=dart&logoColor=white" />
     <img src="https://img.shields.io/badge/-Clean_Architecture-4285F4?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LangGraph_State-1C3C3C?&style=for-the-badge&logo=langchain&logoColor=white" />
 </div>
 
 ### Data Analytics
@@ -117,6 +158,45 @@ My journey in computer science has led me to develop a passion for web- and mobi
 </div>
 
 ## Projects
+
+### AI-Powered Investment Research Agent
+
+**Production-ready AI research agent with multi-stage reasoning and iterative refinement capabilities featuring:**
+
+- **Advanced AI Agent Architecture**: LangGraph-powered multi-node workflow with reflection loops, knowledge gap detection, and iterative query refinement
+- **Large Language Model Integration**: Deep integration with Google Gemini 2.0 Flash for query generation, reflection, and synthesis with streaming responses
+- **RAG System Implementation**: Production-grade Retrieval-Augmented Generation with dynamic query expansion, web research, and citation tracking
+- **Real-Time Communication**: Server-Sent Events (SSE) streaming for progressive result delivery with activity timeline visualization
+- **Microservices Architecture**: Containerized services with FastAPI backend, React frontend, Redis pub-sub broker, and PostgreSQL state persistence
+- **State Management Excellence**: Typed state schemas with Pydantic validation, LangGraph StateGraph orchestration, and checkpoint recovery
+- **Full-Stack Excellence**: React 18 with Vite, TypeScript, Tailwind CSS, Shadcn UI components, and responsive design
+- **Production Deployment**: Multi-stage Docker build, docker-compose orchestration, environment configuration, and LangSmith monitoring integration
+
+*Developed using AI-assisted workflows with Claude Code for architecture design, LangGraph implementation, and API integration while maintaining full technical ownership and architectural decision-making. Showcases modern AI agent patterns, distributed systems design, and production deployment practices.*
+
+**Technical Highlights:**
+- Multi-node LangGraph agent with conditional routing and iterative loops
+- Typed state management with Pydantic schemas and validation
+- FastAPI backend with streaming endpoints and CORS configuration
+- Real-time event emission using Server-Sent Events (SSE)
+- Redis pub-sub architecture for distributed communication
+- PostgreSQL for state persistence and thread management
+- React frontend with progressive UI updates and activity tracking
+- Docker containerization with multi-stage builds
+- Hot-reloading development environment with make automation
+- Comprehensive testing with pytest and Vitest
+
+**Key Achievements:**
+- Implemented sophisticated research workflow with max 3 iteration loops
+- Built reflection system for knowledge gap identification
+- Created streaming API with real-time progress updates
+- Deployed containerized microservices with proper orchestration
+- Integrated LangSmith for agent monitoring and debugging
+- Developed clean separation between AI logic and application layers
+- Achieved production-ready code quality with comprehensive error handling
+- Implemented CLI tools for rapid testing and validation
+
+---
 
 ### Photography Portfolio with Admin CMS
 
