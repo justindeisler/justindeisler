@@ -11,20 +11,14 @@ My journey in computer science has led me to develop a passion for web- and mobi
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Cross-Platform Mobile Development (Flutter/Dart) | <a href="https://github.com/yourusername/Diabetes-Management-Assistant">DoT1 - Diabetes Tracking Platform</a>|
-| Healthcare Technology Integration (CGM APIs) | <a href="https://github.com/yourusername/Diabetes-Management-Assistant">DoT1 - Diabetes Tracking Platform</a>|
-| AI-Assisted Development & Architecture       | <a href="https://github.com/yourusername/Diabetes-Management-Assistant">DoT1 - Diabetes Tracking Platform</a>|
-| Real-Time Data Analytics & Visualization     | <a href="https://github.com/yourusername/Diabetes-Management-Assistant">DoT1 - Diabetes Tracking Platform</a>|
-| Advanced State Management (Riverpod)         | <a href="https://github.com/yourusername/Diabetes-Management-Assistant">DoT1 - Diabetes Tracking Platform</a>|
-| Secure Authentication & Data Handling        | <a href="https://github.com/yourusername/Diabetes-Management-Assistant">DoT1 - Diabetes Tracking Platform</a>|
-| Medical Device API Integration               | <a href="https://github.com/yourusername/Diabetes-Management-Assistant">DoT1 - Diabetes Tracking Platform</a>|
-| Python Analytics Integration                 | <a href="https://github.com/yourusername/Diabetes-Management-Assistant">DoT1 - Diabetes Tracking Platform</a>|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Cross-Platform Mobile Development (Flutter/Dart) | <a href="https://github.com/yourusername/Diabetes-Management-Assistant">Diabetes Tracking Platform</a>|
+| Healthcare Technology Integration (CGM APIs) | <a href="https://github.com/yourusername/Diabetes-Management-Assistant">Diabetes Tracking Platform</a>|
+| AI-Assisted Development & Architecture       | <a href="https://github.com/yourusername/Diabetes-Management-Assistant">Diabetes Tracking Platform</a>|
+| Real-Time Data Analytics & Visualization     | <a href="https://github.com/yourusername/Diabetes-Management-Assistant">Diabetes Tracking Platform</a>|
+| Advanced State Management (Riverpod)         | <a href="https://github.com/yourusername/Diabetes-Management-Assistant">Diabetes Tracking Platform</a>|
+| Secure Authentication & Data Handling        | <a href="https://github.com/yourusername/Diabetes-Management-Assistant">Diabetes Tracking Platform</a>|
+| Medical Device API Integration               | <a href="https://github.com/yourusername/Diabetes-Management-Assistant">Diabetes Tracking Platform</a>|
+| Python Analytics Integration                 | <a href="https://github.com/yourusername/Diabetes-Management-Assistant">Diabetes Tracking Platform</a>|
 
 ## Tools
 
@@ -101,7 +95,7 @@ My journey in computer science has led me to develop a passion for web- and mobi
 
 ## Projects
 
-### DoT1 - AI-Assisted Healthcare Platform Development
+### Diabetes Management Assistant
 
 **Comprehensive diabetes tracking and management application featuring:**
 
@@ -129,7 +123,3 @@ My journey in computer science has led me to develop a passion for web- and mobi
 - Created intuitive UI for complex healthcare data management
 - Built scalable architecture supporting multiple platforms
 - Established seamless Python integration for advanced analytics
-
-### Detection Lab
-
-### SOC Automation Project
