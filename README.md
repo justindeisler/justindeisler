@@ -14,11 +14,12 @@ My journey in computer science has led me to develop a passion for AI-powered ap
 | AI Agent Architecture & LangGraph            | <a href="https://github.com/justindeisler/AI-Powered-Investment-Research-Agent">AI-Powered Investment Research Agent</a>|
 | Large Language Model Integration (Gemini)    | <a href="https://github.com/justindeisler/AI-Powered-Investment-Research-Agent">AI-Powered Investment Research Agent</a>|
 | RAG System Design & Implementation           | <a href="https://github.com/justindeisler/AI-Powered-Investment-Research-Agent">AI-Powered Investment Research Agent</a>|
-| Real-Time Streaming (SSE/WebSockets)         | <a href="https://github.com/justindeisler/AI-Powered-Investment-Research-Agent">AI-Powered Investment Research Agent</a>|
+| Real-Time Streaming (SSE)                    | <a href="https://github.com/justindeisler/AI-Powered-Investment-Research-Agent">AI-Powered Investment Research Agent</a>|
 | Microservices Architecture & Orchestration   | <a href="https://github.com/justindeisler/AI-Powered-Investment-Research-Agent">AI-Powered Investment Research Agent</a>|
 | Docker & Container Orchestration             | <a href="https://github.com/justindeisler/AI-Powered-Investment-Research-Agent">AI-Powered Investment Research Agent</a>|
 | FastAPI & Modern Python Backend              | <a href="https://github.com/justindeisler/AI-Powered-Investment-Research-Agent">AI-Powered Investment Research Agent</a>|
-| Full-Stack Web Development (Next.js/React)   | <a href="https://github.com/justindeisler/Photography-Portfolio-with-Admin-CMS">Photography Portfolio with Admin CMS</a> & <a href="https://github.com/justindeisler/AI-Powered-Investment-Research-Agent">AI-Powered Investment Research Agent</a>|
+| Full-Stack Web Development (Next.js)         | <a href="https://github.com/justindeisler/Photography-Portfolio-with-Admin-CMS">Photography Portfolio with Admin CMS</a>|
+| Full-Stack Web Development (React + Vite)    | <a href="https://github.com/justindeisler/AI-Powered-Investment-Research-Agent">AI-Powered Investment Research Agent</a>|
 | Advanced Performance Optimization            | <a href="https://github.com/justindeisler/Photography-Portfolio-with-Admin-CMS">Photography Portfolio with Admin CMS</a>|
 | Database Optimization (Supabase/PostgreSQL)  | <a href="https://github.com/justindeisler/Photography-Portfolio-with-Admin-CMS">Photography Portfolio with Admin CMS</a> & <a href="https://github.com/justindeisler/AI-Powered-Investment-Research-Agent">AI-Powered Investment Research Agent</a>|
 | Server-Side Rendering & SEO                  | <a href="https://github.com/justindeisler/Photography-Portfolio-with-Admin-CMS">Photography Portfolio with Admin CMS</a>|
@@ -26,6 +27,8 @@ My journey in computer science has led me to develop a passion for AI-powered ap
 | Component Architecture & Design Systems      | <a href="https://github.com/justindeisler/Photography-Portfolio-with-Admin-CMS">Photography Portfolio with Admin CMS</a> & <a href="https://github.com/justindeisler/AI-Powered-Investment-Research-Agent">AI-Powered Investment Research Agent</a>|
 | Cross-Platform Mobile Development (Flutter/Dart) | <a href="https://github.com/justindeisler/Diabetes-Management-Assistant">Diabetes Tracking Platform</a>|
 | Healthcare Technology Integration (CGM APIs) | <a href="https://github.com/justindeisler/Diabetes-Management-Assistant">Diabetes Tracking Platform</a>|
+| Self-Hosted Backend Infrastructure           | <a href="https://github.com/justindeisler/Diabetes-Management-Assistant">Diabetes Tracking Platform</a> & <a href="https://github.com/justindeisler/Photography-Portfolio-with-Admin-CMS">Photography Portfolio with Admin CMS</a>|
+| Automated Data Collection & Background Services | <a href="https://github.com/justindeisler/Diabetes-Management-Assistant">Diabetes Tracking Platform</a>|
 | AI-Assisted Development & Architecture       | <a href="https://github.com/justindeisler/Diabetes-Management-Assistant">Diabetes Tracking Platform</a>, <a href="https://github.com/justindeisler/Photography-Portfolio-with-Admin-CMS">Photography Portfolio with Admin CMS</a> & <a href="https://github.com/justindeisler/AI-Powered-Investment-Research-Agent">AI-Powered Investment Research Agent</a>|
 | Real-Time Data Analytics & Visualization     | <a href="https://github.com/justindeisler/Diabetes-Management-Assistant">Diabetes Tracking Platform</a>|
 | Advanced State Management (Riverpod)         | <a href="https://github.com/justindeisler/Diabetes-Management-Assistant">Diabetes Tracking Platform</a>|
@@ -102,6 +105,7 @@ My journey in computer science has led me to develop a passion for AI-powered ap
     <img src="https://img.shields.io/badge/-Vercel-000000?&style=for-the-badge&logo=vercel&logoColor=white" />
     <img src="https://img.shields.io/badge/-Make-427819?&style=for-the-badge&logo=gnu&logoColor=white" />
 </div>
+<small>*Vercel used for initial development/testing deployments*</small>
 
 ### DNS & Domain Management
 <div>
@@ -148,26 +152,6 @@ My journey in computer science has led me to develop a passion for AI-powered ap
     <img src="https://img.shields.io/badge/-Medical_Standards-2196F3?&style=for-the-badge&logo=medical&logoColor=white" />
 </div>
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
-
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -178,6 +162,93 @@ My journey in computer science has led me to develop a passion for AI-powered ap
 </div>
 
 ## Projects
+
+### Diabetes Management Assistant
+
+**Comprehensive diabetes tracking and management application featuring:**
+
+- **11 Health Tracking Categories**: Insulin, meals, activity, medications, mood, infections, HbA1c, female health, water intake, sleep patterns, and CGM integration
+- **Real-Time CGM Integration**: LibreLink API integration with secure credential storage and regional endpoint discovery
+- **Self-Hosted Backend Infrastructure**: Python/FastAPI backend hosted on Ubuntu Server with PostgreSQL database for persistent data storage and user management
+- **Automated CGM Data Collection**: Background service running on self-hosted server that automatically fetches LibreLinkUp CGM data at configurable intervals, managed through the Flutter frontend
+- **Advanced Analytics Engine**: Correlation analysis, trend tracking, time-in-range calculations, and health insights dashboard
+- **Cross-Platform Architecture**: Flutter application with Clean Architecture, supporting iOS, Android, Web, Windows, macOS, and Linux
+- **Python Analytics Ready**: All data models optimized for seamless export to Python analytics frameworks
+- **Professional UI/UX**: Material Design 3 with health-specific color schemes and accessibility compliance
+
+*Backend deployed on self-hosted Ubuntu Server with systemd service management, enabling reliable 24/7 CGM data collection without requiring the mobile app to be running. Developed using modern AI-assisted development workflows with Claude Code while maintaining full architectural ownership and technical decision-making. Demonstrates strategic use of AI tools to accelerate development while ensuring code quality, security, and maintainability.*
+
+**Technical Highlights:**
+- Clean Architecture with feature-based organization
+- Advanced state management using Riverpod with code generation
+- Secure authentication and encrypted data storage
+- Self-hosted FastAPI backend with automated CGM data fetching
+- PostgreSQL database for persistent health data and user accounts
+- Real-time data synchronization between server and mobile app
+- Background services with systemd management for 24/7 operation
+- Configurable data collection intervals through frontend UI
+- Comprehensive form validation and error handling
+- Professional-grade medical device API integration
+
+**Key Achievements:**
+- Successfully integrated CGM devices for real-time glucose monitoring
+- Deployed self-hosted backend with automated data collection pipeline
+- Implemented comprehensive correlation analysis between health metrics
+- Developed secure, HIPAA-compliant data handling practices
+- Created intuitive UI for complex healthcare data management
+- Built scalable architecture supporting multiple platforms
+- Established seamless Python integration for advanced analytics
+- Configured reliable background services for uninterrupted CGM data fetching
+
+---
+
+### Photography Portfolio with Admin CMS
+
+**High-performance, production-ready photography portfolio with integrated content management system featuring:**
+
+- **Advanced Performance Optimization**: 5x faster builds (50s → 10s), 88% bundle size reduction (23.7kB → 2.81kB), 2.5MB database optimization
+- **Full-Stack Architecture**: Next.js 15.3.3 with App Router, TypeScript strict mode, Tailwind CSS v4, Supabase backend (PostgreSQL, Auth, Storage)
+- **Server-Side Rendering**: SEO-optimized with React Server Components and strategic client component extraction
+- **Database Optimization**: Connection pooling, parallel queries, intelligent timeout handling with graceful fallbacks
+- **Admin CMS Excellence**: 90% code reduction through shared components, hooks, and centralized API layer
+- **Image Optimization**: Migration from base64 to Supabase Storage, CDN delivery, progressive loading with blur placeholders
+- **Production Infrastructure**: Self-hosted on Ubuntu Server 24.04 with Nginx reverse proxy, PM2 process management, PostgreSQL database, SSL certificates via Let's Encrypt, and Cloudflare Tunnel for secure global access
+- **DevOps Excellence**: Automated service startup with systemd, firewall configuration with UFW, DNS management via Cloudflare, and production-ready deployment bypassing ISP restrictions
+
+*Initially deployed on Vercel for rapid prototyping and testing, then migrated to self-hosted infrastructure for full control and cost optimization. Developed using AI-assisted workflows with Claude Code for architecture design, performance optimization, infrastructure setup, and debugging while maintaining full technical ownership and architectural decision-making. Showcases systematic problem-solving across application development, database optimization, and production server deployment.*
+
+**Technical Highlights:**
+- React Server Components with strategic client-side interactivity
+- Code splitting and lazy loading (Framer Motion, Lightbox)
+- Database query optimization (5 queries/2 round trips → 4 queries/1 round trip)
+- Supabase Authentication with protected route middleware
+- Shared component library (`useImageUpload`, `useAdminCRUD`, `AdminForm`)
+- Design token system for consistent theming
+- Comprehensive error handling with graceful degradation
+- HEIC image conversion and Next.js Image optimization
+- Ubuntu Server with Nginx reverse proxy configuration
+- PM2 process management with automatic restart capabilities
+- Let's Encrypt SSL/TLS certificate management with auto-renewal
+- Cloudflare Tunnel integration bypassing ISP port blocking
+- Systemd service management for all critical services
+- PostgreSQL 16 production database with connection pooling
+- UFW firewall configuration and network security
+- DNS management with CNAME records and nameserver delegation
+
+**Key Achievements:**
+- Achieved 100% build success rate (from ~60% with timeouts)
+- Reduced First Load JS from 209kB to 154kB (26% improvement)
+- Eliminated 90% of admin code duplication through shared components
+- Implemented production-ready migration system for data transformation
+- Fixed critical TypeScript compilation and routing bugs
+- Created professional admin interface with optimistic updates
+- Successfully deployed to self-hosted Ubuntu server with enterprise-grade reliability
+- Configured Cloudflare Tunnel to bypass residential ISP restrictions
+- Implemented automatic SSL certificate renewal and service auto-start on reboot
+- Established secure, production-ready infrastructure with proper firewall rules
+- Achieved global accessibility through Cloudflare CDN with zero downtime
+
+---
 
 ### AI-Powered Investment Research Agent
 
@@ -215,82 +286,3 @@ My journey in computer science has led me to develop a passion for AI-powered ap
 - Developed clean separation between AI logic and application layers
 - Achieved production-ready code quality with comprehensive error handling
 - Implemented CLI tools for rapid testing and validation
-
----
-
-### Photography Portfolio with Admin CMS
-
-**High-performance, production-ready photography portfolio with integrated content management system featuring:**
-
-- **Advanced Performance Optimization**: 5x faster builds (50s → 10s), 88% bundle size reduction (23.7kB → 2.81kB), 2.5MB database optimization
-- **Full-Stack Architecture**: Next.js 15.3.3 with App Router, TypeScript strict mode, Tailwind CSS v4, Supabase backend (PostgreSQL, Auth, Storage)
-- **Server-Side Rendering**: SEO-optimized with React Server Components and strategic client component extraction
-- **Database Optimization**: Connection pooling, parallel queries, intelligent timeout handling with graceful fallbacks
-- **Admin CMS Excellence**: 90% code reduction through shared components, hooks, and centralized API layer
-- **Image Optimization**: Migration from base64 to Supabase Storage, CDN delivery, progressive loading with blur placeholders
-- **Production Infrastructure**: Self-hosted on Ubuntu Server 24.04 with Nginx reverse proxy, PM2 process management, PostgreSQL database, SSL certificates via Let's Encrypt, and Cloudflare Tunnel for secure global access
-- **DevOps Excellence**: Automated service startup with systemd, firewall configuration with UFW, DNS management via Cloudflare, and production-ready deployment bypassing ISP restrictions
-
-*Developed using AI-assisted workflows with Claude Code for architecture design, performance optimization, infrastructure setup, and debugging while maintaining full technical ownership and architectural decision-making. Showcases systematic problem-solving across application development, database optimization, and production server deployment.*
-
-**Technical Highlights:**
-- React Server Components with strategic client-side interactivity
-- Code splitting and lazy loading (Framer Motion, Lightbox)
-- Database query optimization (5 queries/2 round trips → 4 queries/1 round trip)
-- Supabase Authentication with protected route middleware
-- Shared component library (`useImageUpload`, `useAdminCRUD`, `AdminForm`)
-- Design token system for consistent theming
-- Comprehensive error handling with graceful degradation
-- HEIC image conversion and Next.js Image optimization
-- Ubuntu Server with Nginx reverse proxy configuration
-- PM2 process management with automatic restart capabilities
-- Let's Encrypt SSL/TLS certificate management with auto-renewal
-- Cloudflare Tunnel integration bypassing ISP port blocking
-- Systemd service management for all critical services
-- PostgreSQL 16 production database with connection pooling
-- UFW firewall configuration and network security
-- DNS management with CNAME records and nameserver delegation
-
-**Key Achievements:**
-- Achieved 100% build success rate (from ~60% with timeouts)
-- Reduced First Load JS from 209kB to 154kB (26% improvement)
-- Eliminated 90% of admin code duplication through shared components
-- Implemented production-ready migration system for data transformation
-- Fixed critical TypeScript compilation and routing bugs
-- Created professional admin interface with optimistic updates
-- Successfully deployed to self-hosted Ubuntu server with enterprise-grade reliability
-- Configured Cloudflare Tunnel to bypass residential ISP restrictions
-- Implemented automatic SSL certificate renewal and service auto-start on reboot
-- Established secure, production-ready infrastructure with proper firewall rules
-- Achieved global accessibility through Cloudflare CDN with zero downtime
-
----
-
-### Diabetes Management Assistant
-
-**Comprehensive diabetes tracking and management application featuring:**
-
-- **11 Health Tracking Categories**: Insulin, meals, activity, medications, mood, infections, HbA1c, female health, water intake, sleep patterns, and CGM integration
-- **Real-Time CGM Integration**: LibreLink API integration with secure credential storage and regional endpoint discovery
-- **Advanced Analytics Engine**: Correlation analysis, trend tracking, time-in-range calculations, and health insights dashboard
-- **Cross-Platform Architecture**: Flutter application with Clean Architecture, supporting iOS, Android, Web, Windows, macOS, and Linux
-- **Python Analytics Ready**: All data models optimized for seamless export to Python analytics frameworks
-- **Professional UI/UX**: Material Design 3 with health-specific color schemes and accessibility compliance
-
-*Developed using modern AI-assisted development workflows with Claude Code while maintaining full architectural ownership and technical decision-making. Demonstrates strategic use of AI tools to accelerate development while ensuring code quality, security, and maintainability.*
-
-**Technical Highlights:**
-- Clean Architecture with feature-based organization
-- Advanced state management using Riverpod with code generation
-- Secure authentication and encrypted data storage
-- Real-time data synchronization and offline capability
-- Comprehensive form validation and error handling
-- Professional-grade medical device API integration
-
-**Key Achievements:**
-- Successfully integrated CGM devices for real-time glucose monitoring
-- Implemented comprehensive correlation analysis between health metrics
-- Developed secure, HIPAA-compliant data handling practices
-- Created intuitive UI for complex healthcare data management
-- Built scalable architecture supporting multiple platforms
-- Established seamless Python integration for advanced analytics
