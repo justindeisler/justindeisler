@@ -7,6 +7,14 @@ I am a recent graduate with a profound interest in technology and a dedication t
 
 My journey in computer science has led me to develop a passion for AI-powered applications, web and mobile development, with particular expertise in healthcare technology solutions, high-performance web applications, and intelligent agent systems. I am eager to apply my skills in building scalable, user-centric applications that leverage cutting-edge AI technologies.
 
+## AI-Assisted Development Approach
+
+I leverage modern AI-powered development workflows to accelerate delivery while maintaining high code quality standards and architectural integrity. My approach combines:
+**Spec-Driven Development:** Creating comprehensive technical specifications before implementation, enabling AI assistants to generate production-ready code that aligns with architectural vision and project requirements.
+**Model Context Protocol (MCP) Integration:** Connecting Claude with extended context through MCP servers, providing deep codebase understanding, real-time documentation access, and project-specific knowledge that enhances AI assistance accuracy and relevance.
+**AI Agent Workflows:** Utilizing autonomous AI agents for complex tasks including architecture design, code generation, debugging, optimization, and documentation, while maintaining human oversight and decision-making authority for all architectural choices.
+This methodology has proven instrumental across all three portfolio projects, enabling rapid development cycles, comprehensive code reviews, and sophisticated problem-solving while preserving full technical ownership and ensuring production-grade quality.
+
 ## Skills
 
 | Skill                                         | Associated Project         |
@@ -215,7 +223,7 @@ My journey in computer science has led me to develop a passion for AI-powered ap
 - **Production Infrastructure**: Self-hosted on Ubuntu Server 24.04 with Nginx reverse proxy, PM2 process management, PostgreSQL database, SSL certificates via Let's Encrypt, and Cloudflare Tunnel for secure global access
 - **DevOps Excellence**: Automated service startup with systemd, firewall configuration with UFW, DNS management via Cloudflare, and production-ready deployment bypassing ISP restrictions
 
-*Initially deployed on Vercel for rapid prototyping and testing, then migrated to self-hosted infrastructure for full control and cost optimization. Developed using AI-assisted workflows with Claude Code for architecture design, performance optimization, infrastructure setup, and debugging while maintaining full technical ownership and architectural decision-making. Showcases systematic problem-solving across application development, database optimization, and production server deployment.*
+*Initially deployed on Vercel for rapid prototyping and testing, then migrated to self-hosted infrastructure for full control and cost optimization. Developed using advanced AI-assisted workflows with Claude Code, employing spec-driven development methodologies, Model Context Protocol (MCP) integrations for comprehensive codebase understanding, and AI agent workflows for architecture design, performance optimization, infrastructure setup, and debugging while maintaining full technical ownership and architectural decision-making. Showcases systematic problem-solving across application development, database optimization, and production server deployment with modern AI development practices.*
 
 **Technical Highlights:**
 - React Server Components with strategic client-side interactivity
@@ -263,7 +271,7 @@ My journey in computer science has led me to develop a passion for AI-powered ap
 - **Full-Stack Excellence**: React 18 with Vite, TypeScript, Tailwind CSS, Shadcn UI components, and responsive design
 - **Production Deployment**: Multi-stage Docker build, docker-compose orchestration, environment configuration, and LangSmith monitoring integration
 
-*Developed using AI-assisted workflows with Claude Code for architecture design, LangGraph implementation, and API integration while maintaining full technical ownership and architectural decision-making. Showcases modern AI agent patterns, distributed systems design, and production deployment practices.*
+*Developed using advanced AI-assisted workflows with Claude Code, implementing spec-driven development practices, Model Context Protocol (MCP) integrations for deep codebase context, and AI agent orchestration for architecture design, LangGraph implementation, and API integration while maintaining full technical ownership and architectural decision-making. Showcases modern AI agent patterns, distributed systems design, production deployment practices, and cutting-edge AI-powered development methodologies.*
 
 **Technical Highlights:**
 - Multi-node LangGraph agent with conditional routing and iterative loops
