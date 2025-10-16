@@ -10,8 +10,11 @@ My journey in computer science has led me to develop a passion for AI-powered ap
 ## AI-Assisted Development Approach
 
 I leverage modern AI-powered development workflows to accelerate delivery while maintaining high code quality standards and architectural integrity. My approach combines:
+
 **Spec-Driven Development:** Creating comprehensive technical specifications before implementation, enabling AI assistants to generate production-ready code that aligns with architectural vision and project requirements.
+
 **Model Context Protocol (MCP) Integration:** Connecting Claude with extended context through MCP servers, providing deep codebase understanding, real-time documentation access, and project-specific knowledge that enhances AI assistance accuracy and relevance.
+
 **AI Agent Workflows:** Utilizing autonomous AI agents for complex tasks including architecture design, code generation, debugging, optimization, and documentation, while maintaining human oversight and decision-making authority for all architectural choices.
 This methodology has proven instrumental across all three portfolio projects, enabling rapid development cycles, comprehensive code reviews, and sophisticated problem-solving while preserving full technical ownership and ensuring production-grade quality.
 
