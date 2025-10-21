@@ -30,29 +30,29 @@ This methodology has proven instrumental across all portfolio projects, enabling
 | Microservices Architecture & Orchestration   | <a href="https://github.com/justindeisler/AI-Powered-Investment-Research-Agent">AI-Powered Investment Research Agent</a>|
 | Docker & Container Orchestration             | <a href="https://github.com/justindeisler/AI-Powered-Investment-Research-Agent">AI-Powered Investment Research Agent</a>|
 | FastAPI & Modern Python Backend              | <a href="https://github.com/justindeisler/AI-Powered-Investment-Research-Agent">AI-Powered Investment Research Agent</a>|
-| Enterprise Backend Architecture (NestJS)     | <a href="https://github.com/justindeisler/boh-api">BOH Event Management Platform Backend</a>|
-| Clean Architecture & Domain-Driven Design    | <a href="https://github.com/justindeisler/boh-api">BOH Event Management Platform Backend</a>|
-| Advanced API Design & RESTful Services       | <a href="https://github.com/justindeisler/boh-api">BOH Event Management Platform Backend</a>|
-| ORM Design & Database Optimization (Prisma)  | <a href="https://github.com/justindeisler/boh-api">BOH Event Management Platform Backend</a>|
-| Role-Based Access Control (RBAC)             | <a href="https://github.com/justindeisler/boh-api">BOH Event Management Platform Backend</a>|
-| JWT Authentication & Authorization           | <a href="https://github.com/justindeisler/boh-api">BOH Event Management Platform Backend</a>|
-| Event-Driven Architecture                    | <a href="https://github.com/justindeisler/boh-api">BOH Event Management Platform Backend</a>|
-| Feature-Based Module Organization            | <a href="https://github.com/justindeisler/boh-api">BOH Event Management Platform Backend</a>|
+| Enterprise Backend Architecture (NestJS)     | <a href="https://github.com/justindeisler/boh-api">Event Management Platform Backend</a>|
+| Clean Architecture & Domain-Driven Design    | <a href="https://github.com/justindeisler/boh-api">Event Management Platform Backend</a>|
+| Advanced API Design & RESTful Services       | <a href="https://github.com/justindeisler/boh-api">Event Management Platform Backend</a>|
+| ORM Design & Database Optimization (Prisma)  | <a href="https://github.com/justindeisler/boh-api">Event Management Platform Backend</a>|
+| Role-Based Access Control (RBAC)             | <a href="https://github.com/justindeisler/boh-api">Event Management Platform Backend</a>|
+| JWT Authentication & Authorization           | <a href="https://github.com/justindeisler/boh-api">Event Management Platform Backend</a>|
+| Event-Driven Architecture                    | <a href="https://github.com/justindeisler/boh-api">Event Management Platform Backend</a>|
+| Feature-Based Module Organization            | <a href="https://github.com/justindeisler/boh-api">Event Management Platform Backend</a>|
 | Full-Stack Web Development (Next.js)         | <a href="https://github.com/justindeisler/Photography-Portfolio-with-Admin-CMS">Photography Portfolio with Admin CMS</a>|
 | Full-Stack Web Development (React + Vite)    | <a href="https://github.com/justindeisler/AI-Powered-Investment-Research-Agent">AI-Powered Investment Research Agent</a>|
 | Advanced Performance Optimization            | <a href="https://github.com/justindeisler/Photography-Portfolio-with-Admin-CMS">Photography Portfolio with Admin CMS</a>|
 | Database Optimization (Supabase/PostgreSQL)  | <a href="https://github.com/justindeisler/Photography-Portfolio-with-Admin-CMS">Photography Portfolio with Admin CMS</a> & <a href="https://github.com/justindeisler/AI-Powered-Investment-Research-Agent">AI-Powered Investment Research Agent</a>|
 | Server-Side Rendering & SEO                  | <a href="https://github.com/justindeisler/Photography-Portfolio-with-Admin-CMS">Photography Portfolio with Admin CMS</a>|
-| TypeScript & Strict Type Safety              | <a href="https://github.com/justindeisler/Photography-Portfolio-with-Admin-CMS">Photography Portfolio with Admin CMS</a> & <a href="https://github.com/justindeisler/AI-Powered-Investment-Research-Agent">AI-Powered Investment Research Agent</a> & <a href="https://github.com/justindeisler/boh-api">BOH Event Management Platform Backend</a>|
+| TypeScript & Strict Type Safety              | <a href="https://github.com/justindeisler/Photography-Portfolio-with-Admin-CMS">Photography Portfolio with Admin CMS</a> & <a href="https://github.com/justindeisler/AI-Powered-Investment-Research-Agent">AI-Powered Investment Research Agent</a> & <a href="https://github.com/justindeisler/boh-api">Event Management Platform Backend</a>|
 | Component Architecture & Design Systems      | <a href="https://github.com/justindeisler/Photography-Portfolio-with-Admin-CMS">Photography Portfolio with Admin CMS</a> & <a href="https://github.com/justindeisler/AI-Powered-Investment-Research-Agent">AI-Powered Investment Research Agent</a>|
 | Cross-Platform Mobile Development (Flutter/Dart) | <a href="https://github.com/justindeisler/Diabetes-Management-Assistant">Diabetes Tracking Platform</a>|
 | Healthcare Technology Integration (CGM APIs) | <a href="https://github.com/justindeisler/Diabetes-Management-Assistant">Diabetes Tracking Platform</a>|
 | Self-Hosted Backend Infrastructure           | <a href="https://github.com/justindeisler/Diabetes-Management-Assistant">Diabetes Tracking Platform</a> & <a href="https://github.com/justindeisler/Photography-Portfolio-with-Admin-CMS">Photography Portfolio with Admin CMS</a>|
 | Automated Data Collection & Background Services | <a href="https://github.com/justindeisler/Diabetes-Management-Assistant">Diabetes Tracking Platform</a>|
-| AI-Assisted Development & Architecture       | <a href="https://github.com/justindeisler/Diabetes-Management-Assistant">Diabetes Tracking Platform</a>, <a href="https://github.com/justindeisler/Photography-Portfolio-with-Admin-CMS">Photography Portfolio with Admin CMS</a>, <a href="https://github.com/justindeisler/AI-Powered-Investment-Research-Agent">AI-Powered Investment Research Agent</a> & <a href="https://github.com/justindeisler/boh-api">BOH Event Management Platform Backend</a>|
+| AI-Assisted Development & Architecture       | <a href="https://github.com/justindeisler/Diabetes-Management-Assistant">Diabetes Tracking Platform</a>, <a href="https://github.com/justindeisler/Photography-Portfolio-with-Admin-CMS">Photography Portfolio with Admin CMS</a>, <a href="https://github.com/justindeisler/AI-Powered-Investment-Research-Agent">AI-Powered Investment Research Agent</a> & <a href="https://github.com/justindeisler/boh-api">Event Management Platform Backend</a>|
 | Real-Time Data Analytics & Visualization     | <a href="https://github.com/justindeisler/Diabetes-Management-Assistant">Diabetes Tracking Platform</a>|
 | Advanced State Management (Riverpod)         | <a href="https://github.com/justindeisler/Diabetes-Management-Assistant">Diabetes Tracking Platform</a>|
-| Secure Authentication & Data Handling        | <a href="https://github.com/justindeisler/Diabetes-Management-Assistant">Diabetes Tracking Platform</a> & <a href="https://github.com/justindeisler/Photography-Portfolio-with-Admin-CMS">Photography Portfolio with Admin CMS</a> & <a href="https://github.com/justindeisler/boh-api">BOH Event Management Platform Backend</a>|
+| Secure Authentication & Data Handling        | <a href="https://github.com/justindeisler/Diabetes-Management-Assistant">Diabetes Tracking Platform</a> & <a href="https://github.com/justindeisler/Photography-Portfolio-with-Admin-CMS">Photography Portfolio with Admin CMS</a> & <a href="https://github.com/justindeisler/boh-api">Event Management Platform Backend</a>|
 | Medical Device API Integration               | <a href="https://github.com/justindeisler/Diabetes-Management-Assistant">Diabetes Tracking Platform</a>|
 | Redis & Pub-Sub Architecture                 | <a href="https://github.com/justindeisler/AI-Powered-Investment-Research-Agent">AI-Powered Investment Research Agent</a>|
 | State Management in AI Systems               | <a href="https://github.com/justindeisler/AI-Powered-Investment-Research-Agent">AI-Powered Investment Research Agent</a>|
@@ -193,7 +193,7 @@ This methodology has proven instrumental across all portfolio projects, enabling
 
 ## Projects
 
-### BOH Event Management Platform Backend
+### Event Management Platform Backend
 
 **Enterprise-grade event management API with integrated CMS capabilities featuring:**
 
