@@ -5,7 +5,7 @@ I am a recent graduate with a profound interest in technology and a dedication t
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for AI-powered applications, web and mobile development, with particular expertise in healthcare technology solutions, high-performance web applications, and intelligent agent systems. I am eager to apply my skills in building scalable, user-centric applications that leverage cutting-edge AI technologies.
+My journey in computer science has led me to develop a passion for AI-powered applications, web and mobile development, with particular expertise in healthcare technology solutions, high-performance web applications, intelligent agent systems, and senior level backend architectures. I am eager to apply my skills in building scalable, user-centric applications that leverage cutting-edge AI technologies and modern backend frameworks.
 
 ## AI-Assisted Development Approach
 
@@ -16,7 +16,8 @@ I leverage modern AI-powered development workflows to accelerate delivery while 
 **Model Context Protocol (MCP) Integration:** Connecting Claude with extended context through MCP servers, providing deep codebase understanding, real-time documentation access, and project-specific knowledge that enhances AI assistance accuracy and relevance.
 
 **AI Agent Workflows:** Utilizing autonomous AI agents for complex tasks including architecture design, code generation, debugging, optimization, and documentation, while maintaining human oversight and decision-making authority for all architectural choices.
-This methodology has proven instrumental across all three portfolio projects, enabling rapid development cycles, comprehensive code reviews, and sophisticated problem-solving while preserving full technical ownership and ensuring production-grade quality.
+
+This methodology has proven instrumental across all portfolio projects, enabling rapid development cycles, comprehensive code reviews, and sophisticated problem-solving while preserving full technical ownership and ensuring production-grade quality.
 
 ## Skills
 
@@ -29,21 +30,29 @@ This methodology has proven instrumental across all three portfolio projects, en
 | Microservices Architecture & Orchestration   | <a href="https://github.com/justindeisler/AI-Powered-Investment-Research-Agent">AI-Powered Investment Research Agent</a>|
 | Docker & Container Orchestration             | <a href="https://github.com/justindeisler/AI-Powered-Investment-Research-Agent">AI-Powered Investment Research Agent</a>|
 | FastAPI & Modern Python Backend              | <a href="https://github.com/justindeisler/AI-Powered-Investment-Research-Agent">AI-Powered Investment Research Agent</a>|
+| Enterprise Backend Architecture (NestJS)     | <a href="https://github.com/justindeisler/boh-api">BOH Event Management Platform Backend</a>|
+| Clean Architecture & Domain-Driven Design    | <a href="https://github.com/justindeisler/boh-api">BOH Event Management Platform Backend</a>|
+| Advanced API Design & RESTful Services       | <a href="https://github.com/justindeisler/boh-api">BOH Event Management Platform Backend</a>|
+| ORM Design & Database Optimization (Prisma)  | <a href="https://github.com/justindeisler/boh-api">BOH Event Management Platform Backend</a>|
+| Role-Based Access Control (RBAC)             | <a href="https://github.com/justindeisler/boh-api">BOH Event Management Platform Backend</a>|
+| JWT Authentication & Authorization           | <a href="https://github.com/justindeisler/boh-api">BOH Event Management Platform Backend</a>|
+| Event-Driven Architecture                    | <a href="https://github.com/justindeisler/boh-api">BOH Event Management Platform Backend</a>|
+| Feature-Based Module Organization            | <a href="https://github.com/justindeisler/boh-api">BOH Event Management Platform Backend</a>|
 | Full-Stack Web Development (Next.js)         | <a href="https://github.com/justindeisler/Photography-Portfolio-with-Admin-CMS">Photography Portfolio with Admin CMS</a>|
 | Full-Stack Web Development (React + Vite)    | <a href="https://github.com/justindeisler/AI-Powered-Investment-Research-Agent">AI-Powered Investment Research Agent</a>|
 | Advanced Performance Optimization            | <a href="https://github.com/justindeisler/Photography-Portfolio-with-Admin-CMS">Photography Portfolio with Admin CMS</a>|
 | Database Optimization (Supabase/PostgreSQL)  | <a href="https://github.com/justindeisler/Photography-Portfolio-with-Admin-CMS">Photography Portfolio with Admin CMS</a> & <a href="https://github.com/justindeisler/AI-Powered-Investment-Research-Agent">AI-Powered Investment Research Agent</a>|
 | Server-Side Rendering & SEO                  | <a href="https://github.com/justindeisler/Photography-Portfolio-with-Admin-CMS">Photography Portfolio with Admin CMS</a>|
-| TypeScript & Strict Type Safety              | <a href="https://github.com/justindeisler/Photography-Portfolio-with-Admin-CMS">Photography Portfolio with Admin CMS</a> & <a href="https://github.com/justindeisler/AI-Powered-Investment-Research-Agent">AI-Powered Investment Research Agent</a>|
+| TypeScript & Strict Type Safety              | <a href="https://github.com/justindeisler/Photography-Portfolio-with-Admin-CMS">Photography Portfolio with Admin CMS</a> & <a href="https://github.com/justindeisler/AI-Powered-Investment-Research-Agent">AI-Powered Investment Research Agent</a> & <a href="https://github.com/justindeisler/boh-api">BOH Event Management Platform Backend</a>|
 | Component Architecture & Design Systems      | <a href="https://github.com/justindeisler/Photography-Portfolio-with-Admin-CMS">Photography Portfolio with Admin CMS</a> & <a href="https://github.com/justindeisler/AI-Powered-Investment-Research-Agent">AI-Powered Investment Research Agent</a>|
 | Cross-Platform Mobile Development (Flutter/Dart) | <a href="https://github.com/justindeisler/Diabetes-Management-Assistant">Diabetes Tracking Platform</a>|
 | Healthcare Technology Integration (CGM APIs) | <a href="https://github.com/justindeisler/Diabetes-Management-Assistant">Diabetes Tracking Platform</a>|
 | Self-Hosted Backend Infrastructure           | <a href="https://github.com/justindeisler/Diabetes-Management-Assistant">Diabetes Tracking Platform</a> & <a href="https://github.com/justindeisler/Photography-Portfolio-with-Admin-CMS">Photography Portfolio with Admin CMS</a>|
 | Automated Data Collection & Background Services | <a href="https://github.com/justindeisler/Diabetes-Management-Assistant">Diabetes Tracking Platform</a>|
-| AI-Assisted Development & Architecture       | <a href="https://github.com/justindeisler/Diabetes-Management-Assistant">Diabetes Tracking Platform</a>, <a href="https://github.com/justindeisler/Photography-Portfolio-with-Admin-CMS">Photography Portfolio with Admin CMS</a> & <a href="https://github.com/justindeisler/AI-Powered-Investment-Research-Agent">AI-Powered Investment Research Agent</a>|
+| AI-Assisted Development & Architecture       | <a href="https://github.com/justindeisler/Diabetes-Management-Assistant">Diabetes Tracking Platform</a>, <a href="https://github.com/justindeisler/Photography-Portfolio-with-Admin-CMS">Photography Portfolio with Admin CMS</a>, <a href="https://github.com/justindeisler/AI-Powered-Investment-Research-Agent">AI-Powered Investment Research Agent</a> & <a href="https://github.com/justindeisler/boh-api">BOH Event Management Platform Backend</a>|
 | Real-Time Data Analytics & Visualization     | <a href="https://github.com/justindeisler/Diabetes-Management-Assistant">Diabetes Tracking Platform</a>|
 | Advanced State Management (Riverpod)         | <a href="https://github.com/justindeisler/Diabetes-Management-Assistant">Diabetes Tracking Platform</a>|
-| Secure Authentication & Data Handling        | <a href="https://github.com/justindeisler/Diabetes-Management-Assistant">Diabetes Tracking Platform</a> & <a href="https://github.com/justindeisler/Photography-Portfolio-with-Admin-CMS">Photography Portfolio with Admin CMS</a>|
+| Secure Authentication & Data Handling        | <a href="https://github.com/justindeisler/Diabetes-Management-Assistant">Diabetes Tracking Platform</a> & <a href="https://github.com/justindeisler/Photography-Portfolio-with-Admin-CMS">Photography Portfolio with Admin CMS</a> & <a href="https://github.com/justindeisler/boh-api">BOH Event Management Platform Backend</a>|
 | Medical Device API Integration               | <a href="https://github.com/justindeisler/Diabetes-Management-Assistant">Diabetes Tracking Platform</a>|
 | Redis & Pub-Sub Architecture                 | <a href="https://github.com/justindeisler/AI-Powered-Investment-Research-Agent">AI-Powered Investment Research Agent</a>|
 | State Management in AI Systems               | <a href="https://github.com/justindeisler/AI-Powered-Investment-Research-Agent">AI-Powered Investment Research Agent</a>|
@@ -57,6 +66,16 @@ This methodology has proven instrumental across all three portfolio projects, en
     <img src="https://img.shields.io/badge/-LangChain-1C3C3C?&style=for-the-badge&logo=langchain&logoColor=white" />
     <img src="https://img.shields.io/badge/-LangSmith-00A67E?&style=for-the-badge&logo=langchain&logoColor=white" />
     <img src="https://img.shields.io/badge/-RAG_Systems-FF6B35?&style=for-the-badge&logoColor=white" />
+</div>
+
+### Backend Frameworks & Architecture
+<div>
+    <img src="https://img.shields.io/badge/-NestJS-E0234E?&style=for-the-badge&logo=nestjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Fastify-000000?&style=for-the-badge&logo=fastify&logoColor=white" />
+    <img src="https://img.shields.io/badge/-FastAPI-009688?&style=for-the-badge&logo=fastapi&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Prisma-2D3748?&style=for-the-badge&logo=prisma&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Clean_Architecture-4285F4?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Domain_Driven_Design-FF6B35?&style=for-the-badge&logoColor=white" />
 </div>
 
 ### Web Development
@@ -79,7 +98,7 @@ This methodology has proven instrumental across all three portfolio projects, en
 ### Backend & Database
 <div>
     <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/-FastAPI-009688?&style=for-the-badge&logo=fastapi&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Node.js-339933?&style=for-the-badge&logo=nodedotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/-Pydantic-E92063?&style=for-the-badge&logo=pydantic&logoColor=white" />
     <img src="https://img.shields.io/badge/-Supabase-3ECF8E?&style=for-the-badge&logo=supabase&logoColor=white" />
     <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?&style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -127,6 +146,7 @@ This methodology has proven instrumental across all three portfolio projects, en
 
 ### Testing
 <div>
+    <img src="https://img.shields.io/badge/-Jest-C21325?&style=for-the-badge&logo=jest&logoColor=white" />
     <img src="https://img.shields.io/badge/-pytest-0A9EDC?&style=for-the-badge&logo=pytest&logoColor=white" />
     <img src="https://img.shields.io/badge/-Vitest-6E9F18?&style=for-the-badge&logo=vitest&logoColor=white" />
 </div>
@@ -145,7 +165,6 @@ This methodology has proven instrumental across all three portfolio projects, en
 <div>
     <img src="https://img.shields.io/badge/-Riverpod-00D4AA?&style=for-the-badge&logo=flutter&logoColor=white" />
     <img src="https://img.shields.io/badge/-Code_Generation-0175C2?&style=for-the-badge&logo=dart&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Clean_Architecture-4285F4?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-LangGraph_State-1C3C3C?&style=for-the-badge&logo=langchain&logoColor=white" />
 </div>
 
@@ -173,6 +192,48 @@ This methodology has proven instrumental across all three portfolio projects, en
 </div>
 
 ## Projects
+
+### BOH Event Management Platform Backend
+
+**Enterprise-grade event management API with integrated CMS capabilities featuring:**
+
+- **Clean Architecture Implementation**: Domain-driven design with clear separation of concerns across domain, application, infrastructure, and presentation layers
+- **Dual API Architecture**: Unified backend serving both public event discovery endpoints and protected admin CMS functionality with role-based access control
+- **NestJS Framework Excellence**: Fastify adapter for high-performance HTTP handling, feature-based module organization, and dependency injection throughout
+- **Advanced Database Design**: PostgreSQL with Prisma ORM featuring optimized schema for events, venues, bookings, users, and dynamic CMS content with flexible section types
+- **Robust Authentication System**: JWT-based authentication with access/refresh token rotation, role-based guards, and secure password hashing with bcrypt
+- **CMS Content Management**: Dynamic page builder supporting multiple section types (hero, text, image gallery, call-to-action) with rich text editing capabilities
+- **Media Management**: Secure file upload handling, image optimization, thumbnail generation, and organized storage with validation
+- **Comprehensive API Design**: RESTful endpoints following semantic versioning, consistent error handling, pagination support, and filtering capabilities
+- **Production-Ready Infrastructure**: Environment-based configuration, database migrations with Prisma, seed data management, and comprehensive error logging
+
+*Developed using advanced AI-assisted workflows with Claude Code, employing spec-driven development methodologies with comprehensive technical specifications, Model Context Protocol (MCP) integrations for deep codebase understanding and real-time documentation access, and AI agent workflows for architecture design, module scaffolding, database schema optimization, and API implementation while maintaining full technical ownership and architectural decision-making. Demonstrates systematic application of Clean Architecture principles, enterprise-grade backend development practices, and modern AI-powered development workflows.*
+
+**Technical Highlights:**
+- Feature-based module structure (auth, events, venues, bookings, users, admin/content, admin/media, admin/settings)
+- Repository pattern with Prisma for data access abstraction
+- Custom decorators for role-based authorization (@Roles(), @Public())
+- DTO validation using class-validator and class-transformer
+- Comprehensive guard system (JWT, Roles, Refresh Token)
+- Transactional operations for data consistency
+- Connection pooling and query optimization
+- Structured logging with contextual information
+- Database migrations for version control
+- Seed scripts for development and testing
+
+**Key Achievements:**
+- Architected scalable backend supporting dual-purpose API (public + admin)
+- Implemented secure authentication with refresh token rotation strategy
+- Designed flexible CMS with dynamic section types and rich content support
+- Created comprehensive RBAC system protecting admin endpoints
+- Built efficient database schema with proper relationships and indexing
+- Established clean separation between business logic and infrastructure
+- Developed consistent API patterns across all modules
+- Implemented robust error handling with meaningful client responses
+- Configured production-ready environment management
+- Created comprehensive database seeding for rapid development setup
+
+---
 
 ### Diabetes Management Assistant
 
