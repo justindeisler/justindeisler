@@ -5,7 +5,7 @@ I am a recent graduate with a profound interest in technology and a dedication t
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for AI-powered applications, web and mobile development, with particular expertise in healthcare technology solutions, high-performance web applications, intelligent agent systems, and senior level backend architectures. I am eager to apply my skills in building scalable, user-centric applications that leverage cutting-edge AI technologies and modern backend frameworks.
+My journey in computer science has led me to develop a passion for AI-powered applications, web and mobile development, with particular expertise in healthcare technology solutions, high-performance web applications, intelligent agent systems, and high level backend architectures. I am eager to apply my skills in building scalable, user-centric applications that leverage cutting-edge AI technologies and modern backend frameworks.
 
 ## AI-Assisted Development Approach
 
