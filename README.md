@@ -32,27 +32,34 @@ This methodology has proven instrumental across all portfolio projects, enabling
 | FastAPI & Modern Python Backend              | <a href="https://github.com/justindeisler/AI-Powered-Investment-Research-Agent">AI-Powered Investment Research Agent</a>|
 | Enterprise Backend Architecture (NestJS)     | <a href="https://github.com/justindeisler/boh-api">Event Management Platform Backend</a>|
 | Clean Architecture & Domain-Driven Design    | <a href="https://github.com/justindeisler/boh-api">Event Management Platform Backend</a>|
-| Advanced API Design & RESTful Services       | <a href="https://github.com/justindeisler/boh-api">Event Management Platform Backend</a>|
-| ORM Design & Database Optimization (Prisma)  | <a href="https://github.com/justindeisler/boh-api">Event Management Platform Backend</a>|
-| Role-Based Access Control (RBAC)             | <a href="https://github.com/justindeisler/boh-api">Event Management Platform Backend</a>|
-| JWT Authentication & Authorization           | <a href="https://github.com/justindeisler/boh-api">Event Management Platform Backend</a>|
+| Advanced API Design & RESTful Services       | <a href="https://github.com/justindeisler/boh-api">Event Management Platform Backend</a> & <a href="https://github.com/justindeisler/saas-platform">Supplier Onboarding SaaS Platform</a>|
+| ORM Design & Database Optimization (Prisma)  | <a href="https://github.com/justindeisler/boh-api">Event Management Platform Backend</a> & <a href="https://github.com/justindeisler/saas-platform">Supplier Onboarding SaaS Platform</a>|
+| Role-Based Access Control (RBAC)             | <a href="https://github.com/justindeisler/boh-api">Event Management Platform Backend</a> & <a href="https://github.com/justindeisler/saas-platform">Supplier Onboarding SaaS Platform</a>|
+| JWT Authentication & Authorization           | <a href="https://github.com/justindeisler/boh-api">Event Management Platform Backend</a> & <a href="https://github.com/justindeisler/saas-platform">Supplier Onboarding SaaS Platform</a>|
 | Event-Driven Architecture                    | <a href="https://github.com/justindeisler/boh-api">Event Management Platform Backend</a>|
-| Feature-Based Module Organization            | <a href="https://github.com/justindeisler/boh-api">Event Management Platform Backend</a>|
+| Feature-Based Module Organization            | <a href="https://github.com/justindeisler/boh-api">Event Management Platform Backend</a> & <a href="https://github.com/justindeisler/saas-platform">Supplier Onboarding SaaS Platform</a>|
+| Multi-Tenant SaaS Architecture               | <a href="https://github.com/justindeisler/saas-platform">Supplier Onboarding SaaS Platform</a>|
+| Multi-Step Approval Workflow Systems         | <a href="https://github.com/justindeisler/saas-platform">Supplier Onboarding SaaS Platform</a>|
+| Dynamic Questionnaire & Form Builder         | <a href="https://github.com/justindeisler/saas-platform">Supplier Onboarding SaaS Platform</a>|
+| Token-Based Passwordless Authentication      | <a href="https://github.com/justindeisler/saas-platform">Supplier Onboarding SaaS Platform</a>|
+| Express.js Backend Development               | <a href="https://github.com/justindeisler/saas-platform">Supplier Onboarding SaaS Platform</a>|
+| TanStack Query (React Query)                 | <a href="https://github.com/justindeisler/saas-platform">Supplier Onboarding SaaS Platform</a>|
+| Transactional Email Systems (Resend)         | <a href="https://github.com/justindeisler/saas-platform">Supplier Onboarding SaaS Platform</a>|
 | Full-Stack Web Development (Next.js)         | <a href="https://github.com/justindeisler/Photography-Portfolio-with-Admin-CMS">Photography Portfolio with Admin CMS</a>|
-| Full-Stack Web Development (React + Vite)    | <a href="https://github.com/justindeisler/AI-Powered-Investment-Research-Agent">AI-Powered Investment Research Agent</a>|
+| Full-Stack Web Development (React + Vite)    | <a href="https://github.com/justindeisler/AI-Powered-Investment-Research-Agent">AI-Powered Investment Research Agent</a> & <a href="https://github.com/justindeisler/saas-platform">Supplier Onboarding SaaS Platform</a>|
 | Advanced Performance Optimization            | <a href="https://github.com/justindeisler/Photography-Portfolio-with-Admin-CMS">Photography Portfolio with Admin CMS</a>|
-| Database Optimization (Supabase/PostgreSQL)  | <a href="https://github.com/justindeisler/Photography-Portfolio-with-Admin-CMS">Photography Portfolio with Admin CMS</a> & <a href="https://github.com/justindeisler/AI-Powered-Investment-Research-Agent">AI-Powered Investment Research Agent</a>|
+| Database Optimization (Supabase/PostgreSQL)  | <a href="https://github.com/justindeisler/Photography-Portfolio-with-Admin-CMS">Photography Portfolio with Admin CMS</a> & <a href="https://github.com/justindeisler/AI-Powered-Investment-Research-Agent">AI-Powered Investment Research Agent</a> & <a href="https://github.com/justindeisler/saas-platform">Supplier Onboarding SaaS Platform</a>|
 | Server-Side Rendering & SEO                  | <a href="https://github.com/justindeisler/Photography-Portfolio-with-Admin-CMS">Photography Portfolio with Admin CMS</a>|
-| TypeScript & Strict Type Safety              | <a href="https://github.com/justindeisler/Photography-Portfolio-with-Admin-CMS">Photography Portfolio with Admin CMS</a> & <a href="https://github.com/justindeisler/AI-Powered-Investment-Research-Agent">AI-Powered Investment Research Agent</a> & <a href="https://github.com/justindeisler/boh-api">Event Management Platform Backend</a>|
-| Component Architecture & Design Systems      | <a href="https://github.com/justindeisler/Photography-Portfolio-with-Admin-CMS">Photography Portfolio with Admin CMS</a> & <a href="https://github.com/justindeisler/AI-Powered-Investment-Research-Agent">AI-Powered Investment Research Agent</a>|
+| TypeScript & Strict Type Safety              | <a href="https://github.com/justindeisler/Photography-Portfolio-with-Admin-CMS">Photography Portfolio with Admin CMS</a> & <a href="https://github.com/justindeisler/AI-Powered-Investment-Research-Agent">AI-Powered Investment Research Agent</a> & <a href="https://github.com/justindeisler/boh-api">Event Management Platform Backend</a> & <a href="https://github.com/justindeisler/saas-platform">Supplier Onboarding SaaS Platform</a>|
+| Component Architecture & Design Systems      | <a href="https://github.com/justindeisler/Photography-Portfolio-with-Admin-CMS">Photography Portfolio with Admin CMS</a> & <a href="https://github.com/justindeisler/AI-Powered-Investment-Research-Agent">AI-Powered Investment Research Agent</a> & <a href="https://github.com/justindeisler/saas-platform">Supplier Onboarding SaaS Platform</a>|
 | Cross-Platform Mobile Development (Flutter/Dart) | <a href="https://github.com/justindeisler/Diabetes-Management-Assistant">Diabetes Tracking Platform</a>|
 | Healthcare Technology Integration (CGM APIs) | <a href="https://github.com/justindeisler/Diabetes-Management-Assistant">Diabetes Tracking Platform</a>|
-| Self-Hosted Backend Infrastructure           | <a href="https://github.com/justindeisler/Diabetes-Management-Assistant">Diabetes Tracking Platform</a> & <a href="https://github.com/justindeisler/Photography-Portfolio-with-Admin-CMS">Photography Portfolio with Admin CMS</a>|
+| Self-Hosted Backend Infrastructure           | <a href="https://github.com/justindeisler/Diabetes-Management-Assistant">Diabetes Tracking Platform</a> & <a href="https://github.com/justindeisler/Photography-Portfolio-with-Admin-CMS">Photography Portfolio with Admin CMS</a> & <a href="https://github.com/justindeisler/saas-platform">Supplier Onboarding SaaS Platform</a>|
 | Automated Data Collection & Background Services | <a href="https://github.com/justindeisler/Diabetes-Management-Assistant">Diabetes Tracking Platform</a>|
-| AI-Assisted Development & Architecture       | <a href="https://github.com/justindeisler/Diabetes-Management-Assistant">Diabetes Tracking Platform</a>, <a href="https://github.com/justindeisler/Photography-Portfolio-with-Admin-CMS">Photography Portfolio with Admin CMS</a>, <a href="https://github.com/justindeisler/AI-Powered-Investment-Research-Agent">AI-Powered Investment Research Agent</a> & <a href="https://github.com/justindeisler/boh-api">Event Management Platform Backend</a>|
+| AI-Assisted Development & Architecture       | <a href="https://github.com/justindeisler/Diabetes-Management-Assistant">Diabetes Tracking Platform</a>, <a href="https://github.com/justindeisler/Photography-Portfolio-with-Admin-CMS">Photography Portfolio with Admin CMS</a>, <a href="https://github.com/justindeisler/AI-Powered-Investment-Research-Agent">AI-Powered Investment Research Agent</a>, <a href="https://github.com/justindeisler/boh-api">Event Management Platform Backend</a> & <a href="https://github.com/justindeisler/saas-platform">Supplier Onboarding SaaS Platform</a>|
 | Real-Time Data Analytics & Visualization     | <a href="https://github.com/justindeisler/Diabetes-Management-Assistant">Diabetes Tracking Platform</a>|
 | Advanced State Management (Riverpod)         | <a href="https://github.com/justindeisler/Diabetes-Management-Assistant">Diabetes Tracking Platform</a>|
-| Secure Authentication & Data Handling        | <a href="https://github.com/justindeisler/Diabetes-Management-Assistant">Diabetes Tracking Platform</a> & <a href="https://github.com/justindeisler/Photography-Portfolio-with-Admin-CMS">Photography Portfolio with Admin CMS</a> & <a href="https://github.com/justindeisler/boh-api">Event Management Platform Backend</a>|
+| Secure Authentication & Data Handling        | <a href="https://github.com/justindeisler/Diabetes-Management-Assistant">Diabetes Tracking Platform</a> & <a href="https://github.com/justindeisler/Photography-Portfolio-with-Admin-CMS">Photography Portfolio with Admin CMS</a> & <a href="https://github.com/justindeisler/boh-api">Event Management Platform Backend</a> & <a href="https://github.com/justindeisler/saas-platform">Supplier Onboarding SaaS Platform</a>|
 | Medical Device API Integration               | <a href="https://github.com/justindeisler/Diabetes-Management-Assistant">Diabetes Tracking Platform</a>|
 | Redis & Pub-Sub Architecture                 | <a href="https://github.com/justindeisler/AI-Powered-Investment-Research-Agent">AI-Powered Investment Research Agent</a>|
 | State Management in AI Systems               | <a href="https://github.com/justindeisler/AI-Powered-Investment-Research-Agent">AI-Powered Investment Research Agent</a>|
@@ -71,6 +78,7 @@ This methodology has proven instrumental across all portfolio projects, enabling
 ### Backend Frameworks & Architecture
 <div>
     <img src="https://img.shields.io/badge/-NestJS-E0234E?&style=for-the-badge&logo=nestjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Express.js-000000?&style=for-the-badge&logo=express&logoColor=white" />
     <img src="https://img.shields.io/badge/-Fastify-000000?&style=for-the-badge&logo=fastify&logoColor=white" />
     <img src="https://img.shields.io/badge/-FastAPI-009688?&style=for-the-badge&logo=fastapi&logoColor=white" />
     <img src="https://img.shields.io/badge/-Prisma-2D3748?&style=for-the-badge&logo=prisma&logoColor=white" />
@@ -81,7 +89,7 @@ This methodology has proven instrumental across all portfolio projects, enabling
 ### Web Development
 <div>
     <img src="https://img.shields.io/badge/-Next.js-000000?&style=for-the-badge&logo=nextdotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/-React-61DAFB?&style=for-the-badge&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/-React-61DAFB?&style=for-the-badge&logo=react&logoColor=white" />
     <img src="https://img.shields.io/badge/-TypeScript-3178C6?&style=for-the-badge&logo=typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?&style=for-the-badge&logo=tailwindcss&logoColor=white" />
     <img src="https://img.shields.io/badge/-Vite-646CFF?&style=for-the-badge&logo=vite&logoColor=white" />
@@ -155,7 +163,7 @@ This methodology has proven instrumental across all portfolio projects, enabling
 <div>
     <img src="https://img.shields.io/badge/-Server_Side_Rendering-000000?&style=for-the-badge&logo=nextdotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/-Server_Sent_Events-FF6B35?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Code_Splitting-61DAFB?&style=for-the-badge&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Code_Splitting-61DAFB?&style=for-the-badge&logo=react&logoColor=white" />
     <img src="https://img.shields.io/badge/-Lazy_Loading-3178C6?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-CDN_Integration-FF5722?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-Streaming_APIs-009688?&style=for-the-badge&logoColor=white" />
@@ -163,6 +171,7 @@ This methodology has proven instrumental across all portfolio projects, enabling
 
 ### State Management
 <div>
+    <img src="https://img.shields.io/badge/-TanStack_Query-FF4154?&style=for-the-badge&logo=reactquery&logoColor=white" />
     <img src="https://img.shields.io/badge/-Riverpod-00D4AA?&style=for-the-badge&logo=flutter&logoColor=white" />
     <img src="https://img.shields.io/badge/-Code_Generation-0175C2?&style=for-the-badge&logo=dart&logoColor=white" />
     <img src="https://img.shields.io/badge/-LangGraph_State-1C3C3C?&style=for-the-badge&logo=langchain&logoColor=white" />
@@ -173,6 +182,12 @@ This methodology has proven instrumental across all portfolio projects, enabling
     <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/-Data_Visualization-FF6B6B?&style=for-the-badge&logo=chartdotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/-Real_Time_Analytics-FF9500?&style=for-the-badge&logoColor=white" />
+</div>
+
+### Communication & Email
+<div>
+    <img src="https://img.shields.io/badge/-Resend-000000?&style=for-the-badge&logo=resend&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Transactional_Email-4285F4?&style=for-the-badge&logoColor=white" />
 </div>
 
 ### Healthcare Integration
@@ -192,6 +207,57 @@ This methodology has proven instrumental across all portfolio projects, enabling
 </div>
 
 ## Projects
+
+### Supplier Onboarding SaaS Platform
+
+**Production-ready multi-tenant B2B SaaS application that streamlines supplier onboarding through digital questionnaires, document collection, and automated approval workflows featuring:**
+
+- **Multi-Tenant Architecture**: Complete data isolation per company using PostgreSQL with 16 interconnected database models, company-scoped queries enforced at middleware level, and scalable shared database schema supporting horizontal growth
+- **Sophisticated Authentication System**: JWT-based authentication with refresh token rotation (15-minute access tokens, 7-day refresh tokens), role-based access control across 5 user roles (SUPER_ADMIN, COMPANY_ADMIN, COMPANY_MANAGER, COMPANY_REVIEWER, SUPPLIER), password reset flows with email verification, and session tracking with IP/user agent logging
+- **Token-Based Supplier Portal**: Passwordless authentication via unique cryptographic tokens, time-limited access with optional expiration, no account creation required for suppliers, reducing friction in onboarding process while maintaining security
+- **Advanced Questionnaire Builder**: Dynamic form system supporting 11 question types (TEXT, TEXTAREA, EMAIL, PHONE, URL, NUMBER, DATE, SELECT, MULTISELECT, RADIO, CHECKBOX, FILE), section organization with ordering, JSON-based conditional logic and validation rules, questionnaire versioning, and preview functionality
+- **Multi-Step Approval Workflows**: Custom workflow builder with multiple approval steps, designated reviewers per step, approval/rejection with comments, preset workflows auto-created for new companies, and comprehensive approval history tracking
+- **Full-Stack Excellence**: React 19 + Vite + TypeScript frontend with Shadcn/ui components and Tailwind CSS 4.x, Express.js + TypeScript backend (6,738+ lines of controller code), Prisma ORM with PostgreSQL for type-safe database access
+- **Advanced State Management**: TanStack Query (React Query) for server state with caching and background updates, React Hook Form for performant form handling, Zod schema validation shared between frontend and backend
+- **Production Infrastructure**: Self-hosted backend on Ubuntu Server with Cloudflare Tunnel for secure public API access, PM2 process management, Vercel deployment for optimized React frontend, PostgreSQL 14+ database with connection pooling
+- **Email Notification System**: Resend API integration for transactional emails, beautiful HTML email templates for welcome, password reset, and questionnaire assignments, background processing for non-blocking sends
+- **Enterprise Security**: bcrypt password hashing (10 salt rounds), Helmet.js security headers, Express rate limiting (100 requests/15min), CORS configuration, file upload validation (10MB limit, MIME type checks), SQL injection prevention via Prisma ORM
+
+*Developed using advanced AI-assisted workflows with Claude Code, employing spec-driven development methodologies with comprehensive technical specifications, Model Context Protocol (MCP) integrations for deep codebase understanding and real-time documentation access, and AI agent workflows for full-stack architecture design, multi-tenant implementation, authentication system development, and API design while maintaining full technical ownership and architectural decision-making. Demonstrates mastery of multi-tenant SaaS architecture, advanced authentication patterns, complex form systems, and production-ready full-stack development.*
+
+**Technical Highlights:**
+- Feature-based module organization (auth, suppliers, questionnaires, assignments, submissions, workflows, company)
+- RESTful API design with versioned endpoints (`/api/v1/`)
+- Middleware-based authentication and authorization enforcement
+- Multi-tenant data isolation at query level with companyId filtering
+- Type-safe development across frontend and backend with TypeScript strict mode
+- Manual code splitting for optimized bundle sizes (react-vendor, query-vendor, form-vendor)
+- Prisma migrations for schema evolution and version control
+- JSON fields for flexible metadata, settings, and validation rules
+- Complex database relationships with cascading deletes
+- Indexed queries on foreign keys and frequently searched fields
+- Secure file storage outside web root with unique filename generation
+- Pagination, sorting, search, and filtering on list endpoints
+- Consistent error handling with appropriate HTTP status codes
+- Development hot reload (Nodemon) with production process management (PM2)
+- Request validation using express-validator and Zod schemas
+
+**Key Achievements:**
+- Architected and deployed production-ready multi-tenant SaaS platform with complete data isolation
+- Implemented sophisticated five-tier RBAC system protecting resources at multiple levels
+- Built passwordless supplier portal reducing onboarding friction while maintaining security
+- Created flexible questionnaire builder supporting 11 question types with conditional logic
+- Developed multi-step approval workflow system with designated reviewers and tracking
+- Integrated transactional email service with beautiful HTML templates
+- Established type-safe development pipeline from database to UI (Prisma → TypeScript → Zod)
+- Deployed scalable infrastructure with Cloudflare Tunnel and self-hosted backend
+- Achieved complete end-to-end supplier onboarding flow from invitation to activation
+- Implemented refresh token rotation strategy for secure long-term authentication
+- Built responsive UI with Shadcn/ui components and Tailwind CSS
+- Optimized frontend performance with manual code splitting and lazy loading
+- Created comprehensive API with 40+ endpoints following RESTful conventions
+
+---
 
 ### Event Management Platform Backend
 
