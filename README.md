@@ -143,7 +143,6 @@ This methodology has proven instrumental across all portfolio projects, enabling
     <img src="https://img.shields.io/badge/-Vercel-000000?&style=for-the-badge&logo=vercel&logoColor=white" />
     <img src="https://img.shields.io/badge/-Make-427819?&style=for-the-badge&logo=gnu&logoColor=white" />
 </div>
-<small>*Vercel used for initial development/testing deployments*</small>
 
 ### DNS & Domain Management
 <div>
