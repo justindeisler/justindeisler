@@ -23,13 +23,13 @@ This methodology has proven instrumental across all portfolio projects, enabling
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| AI Agent Architecture & LangGraph            | <a href="https://github.com/justindeisler/personal-assistant-showcase">Personal Assistant</a> & <a href="https://github.com/justindeisler/AI-Powered-Investment-Research-Agent">AI-Powered-Investment-Research Agent</a>|
-| Cross-Platform Desktop Development (Tauri)   | <a href="https://github.com/justindeisler/personal-assistant-showcase">Personal Assistant</a>|
-| Progressive Web App (PWA) Development        | <a href="https://github.com/justindeisler/personal-assistant-showcase">Personal Assistant</a>|
-| Embedded Database Systems (SQLite)           | <a href="https://github.com/justindeisler/personal-assistant-showcase">Personal Assistant</a>|
-| Financial Software & Accounting Systems      | <a href="https://github.com/justindeisler/personal-assistant-showcase">Personal Assistant</a>|
-| OCR & Document Processing                    | <a href="https://github.com/justindeisler/personal-assistant-showcase">Personal Assistant</a>|
-| CalDAV Integration & Calendar Sync           | <a href="https://github.com/justindeisler/personal-assistant-showcase">Personal Assistant</a>|
+| AI Agent Architecture & LangGraph            | <a href="https://github.com/justindeisler/officeOS">officeOS</a> & <a href="https://github.com/justindeisler/AI-Powered-Investment-Research-Agent">AI-Powered-Investment-Research Agent</a>|
+| Cross-Platform Desktop Development (Tauri)   | <a href="https://github.com/justindeisler/officeOS">officeOS</a>|
+| Progressive Web App (PWA) Development        | <a href="https://github.com/justindeisler/officeOS">officeOS</a>|
+| Embedded Database Systems (SQLite)           | <a href="https://github.com/justindeisler/officeOS">officeOS</a>|
+| Financial Software & Accounting Systems      | <a href="https://github.com/justindeisler/officeOS">officeOS</a>|
+| OCR & Document Processing                    | <a href="https://github.com/justindeisler/officeOS">officeOS</a>|
+| CalDAV Integration & Calendar Sync           | <a href="https://github.com/justindeisler/officeOS">officeOS</a>|
 | Large Language Model Integration (Gemini)    | <a href="https://github.com/justindeisler/AI-Powered-Investment-Research-Agent">AI-Powered Investment Research Agent</a>|
 | RAG System Design & Implementation           | <a href="https://github.com/justindeisler/AI-Powered-Investment-Research-Agent">AI-Powered Investment Research Agent</a>|
 | Real-Time Streaming (SSE)                    | <a href="https://github.com/justindeisler/AI-Powered-Investment-Research-Agent">AI-Powered Investment Research Agent</a>|
@@ -38,17 +38,17 @@ This methodology has proven instrumental across all portfolio projects, enabling
 | FastAPI & Modern Python Backend              | <a href="https://github.com/justindeisler/AI-Powered-Investment-Research-Agent">AI-Powered Investment Research Agent</a>|
 | Enterprise Backend Architecture (NestJS)     | <a href="https://github.com/justindeisler/boh-api">Event Management Platform Backend</a>|
 | Clean Architecture & Domain-Driven Design    | <a href="https://github.com/justindeisler/boh-api">Event Management Platform Backend</a>|
-| Advanced API Design & RESTful Services       | <a href="https://github.com/justindeisler/personal-assistant-showcase">Personal Assistant</a>, <a href="https://github.com/justindeisler/boh-api">Event Management Platform Backend</a> & <a href="https://github.com/justindeisler/saas-platform">Supplier Onboarding SaaS Platform</a>|
+| Advanced API Design & RESTful Services       | <a href="https://github.com/justindeisler/officeOS">officeOS</a>, <a href="https://github.com/justindeisler/boh-api">Event Management Platform Backend</a> & <a href="https://github.com/justindeisler/saas-platform">Supplier Onboarding SaaS Platform</a>|
 | ORM Design & Database Optimization (Prisma)  | <a href="https://github.com/justindeisler/boh-api">Event Management Platform Backend</a> & <a href="https://github.com/justindeisler/saas-platform">Supplier Onboarding SaaS Platform</a>|
 | Role-Based Access Control (RBAC)             | <a href="https://github.com/justindeisler/boh-api">Event Management Platform Backend</a> & <a href="https://github.com/justindeisler/saas-platform">Supplier Onboarding SaaS Platform</a>|
-| JWT Authentication & Authorization           | <a href="https://github.com/justindeisler/personal-assistant-showcase">Personal Assistant</a>, <a href="https://github.com/justindeisler/boh-api">Event Management Platform Backend</a> & <a href="https://github.com/justindeisler/saas-platform">Supplier Onboarding SaaS Platform</a>|
+| JWT Authentication & Authorization           | <a href="https://github.com/justindeisler/officeOS">officeOS</a>, <a href="https://github.com/justindeisler/boh-api">Event Management Platform Backend</a> & <a href="https://github.com/justindeisler/saas-platform">Supplier Onboarding SaaS Platform</a>|
 | Event-Driven Architecture                    | <a href="https://github.com/justindeisler/boh-api">Event Management Platform Backend</a>|
 | Feature-Based Module Organization            | <a href="https://github.com/justindeisler/boh-api">Event Management Platform Backend</a> & <a href="https://github.com/justindeisler/saas-platform">Supplier Onboarding SaaS Platform</a>|
 | Multi-Tenant SaaS Architecture               | <a href="https://github.com/justindeisler/saas-platform">Supplier Onboarding SaaS Platform</a>|
 | Multi-Step Approval Workflow Systems         | <a href="https://github.com/justindeisler/saas-platform">Supplier Onboarding SaaS Platform</a>|
 | Dynamic Questionnaire & Form Builder         | <a href="https://github.com/justindeisler/saas-platform">Supplier Onboarding SaaS Platform</a>|
 | Token-Based Passwordless Authentication      | <a href="https://github.com/justindeisler/saas-platform">Supplier Onboarding SaaS Platform</a>|
-| Express.js Backend Development               | <a href="https://github.com/justindeisler/personal-assistant-showcase">Personal Assistant</a> & <a href="https://github.com/justindeisler/saas-platform">Supplier Onboarding SaaS Platform</a>|
+| Express.js Backend Development               | <a href="https://github.com/justindeisler/officeOS">officeOS</a> & <a href="https://github.com/justindeisler/saas-platform">Supplier Onboarding SaaS Platform</a>|
 | TanStack Query (React Query)                 | <a href="https://github.com/justindeisler/saas-platform">Supplier Onboarding SaaS Platform</a>|
 | Transactional Email Systems (Resend)         | <a href="https://github.com/justindeisler/saas-platform">Supplier Onboarding SaaS Platform</a>|
 | Full-Stack Web Development (Next.js)         | <a href="https://github.com/justindeisler/Photography-Portfolio-with-Admin-CMS">Photography Portfolio with Admin CMS</a>|
@@ -214,9 +214,9 @@ This methodology has proven instrumental across all portfolio projects, enabling
 
 ## Projects
 
-### Personal Assistant
+### officeOS
 
-**Production-ready personal productivity platform combining task management, financial tracking, calendar integration, and AI-powered automation featuring:**
+**Production-ready personal productivity operating system combining task management, financial tracking, calendar integration, and AI-powered automation featuring:**
 
 - **Comprehensive Task Management**: Full Kanban workflow with drag-and-drop, subtasks, tags, priorities, assignments (including AI agent tasks), time tracking, and GitHub activity integration for seamless project-code synchronization
 - **Financial Management Suite**: Complete accounting system with expense tracking, income recording, invoice generation with OCR scanning, asset management, client billing, automated DATEV export (German accounting standard), and tax-ready financial reports
