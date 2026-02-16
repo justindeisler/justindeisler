@@ -23,7 +23,13 @@ This methodology has proven instrumental across all portfolio projects, enabling
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| AI Agent Architecture & LangGraph            | <a href="https://github.com/justindeisler/AI-Powered-Investment-Research-Agent">AI-Powered Investment Research Agent</a>|
+| AI Agent Architecture & LangGraph            | <a href="https://github.com/justindeisler/personal-assistant-showcase">Personal Assistant</a> & <a href="https://github.com/justindeisler/AI-Powered-Investment-Research-Agent">AI-Powered-Investment-Research Agent</a>|
+| Cross-Platform Desktop Development (Tauri)   | <a href="https://github.com/justindeisler/personal-assistant-showcase">Personal Assistant</a>|
+| Progressive Web App (PWA) Development        | <a href="https://github.com/justindeisler/personal-assistant-showcase">Personal Assistant</a>|
+| Embedded Database Systems (SQLite)           | <a href="https://github.com/justindeisler/personal-assistant-showcase">Personal Assistant</a>|
+| Financial Software & Accounting Systems      | <a href="https://github.com/justindeisler/personal-assistant-showcase">Personal Assistant</a>|
+| OCR & Document Processing                    | <a href="https://github.com/justindeisler/personal-assistant-showcase">Personal Assistant</a>|
+| CalDAV Integration & Calendar Sync           | <a href="https://github.com/justindeisler/personal-assistant-showcase">Personal Assistant</a>|
 | Large Language Model Integration (Gemini)    | <a href="https://github.com/justindeisler/AI-Powered-Investment-Research-Agent">AI-Powered Investment Research Agent</a>|
 | RAG System Design & Implementation           | <a href="https://github.com/justindeisler/AI-Powered-Investment-Research-Agent">AI-Powered Investment Research Agent</a>|
 | Real-Time Streaming (SSE)                    | <a href="https://github.com/justindeisler/AI-Powered-Investment-Research-Agent">AI-Powered Investment Research Agent</a>|
@@ -32,17 +38,17 @@ This methodology has proven instrumental across all portfolio projects, enabling
 | FastAPI & Modern Python Backend              | <a href="https://github.com/justindeisler/AI-Powered-Investment-Research-Agent">AI-Powered Investment Research Agent</a>|
 | Enterprise Backend Architecture (NestJS)     | <a href="https://github.com/justindeisler/boh-api">Event Management Platform Backend</a>|
 | Clean Architecture & Domain-Driven Design    | <a href="https://github.com/justindeisler/boh-api">Event Management Platform Backend</a>|
-| Advanced API Design & RESTful Services       | <a href="https://github.com/justindeisler/boh-api">Event Management Platform Backend</a> & <a href="https://github.com/justindeisler/saas-platform">Supplier Onboarding SaaS Platform</a>|
+| Advanced API Design & RESTful Services       | <a href="https://github.com/justindeisler/personal-assistant-showcase">Personal Assistant</a>, <a href="https://github.com/justindeisler/boh-api">Event Management Platform Backend</a> & <a href="https://github.com/justindeisler/saas-platform">Supplier Onboarding SaaS Platform</a>|
 | ORM Design & Database Optimization (Prisma)  | <a href="https://github.com/justindeisler/boh-api">Event Management Platform Backend</a> & <a href="https://github.com/justindeisler/saas-platform">Supplier Onboarding SaaS Platform</a>|
 | Role-Based Access Control (RBAC)             | <a href="https://github.com/justindeisler/boh-api">Event Management Platform Backend</a> & <a href="https://github.com/justindeisler/saas-platform">Supplier Onboarding SaaS Platform</a>|
-| JWT Authentication & Authorization           | <a href="https://github.com/justindeisler/boh-api">Event Management Platform Backend</a> & <a href="https://github.com/justindeisler/saas-platform">Supplier Onboarding SaaS Platform</a>|
+| JWT Authentication & Authorization           | <a href="https://github.com/justindeisler/personal-assistant-showcase">Personal Assistant</a>, <a href="https://github.com/justindeisler/boh-api">Event Management Platform Backend</a> & <a href="https://github.com/justindeisler/saas-platform">Supplier Onboarding SaaS Platform</a>|
 | Event-Driven Architecture                    | <a href="https://github.com/justindeisler/boh-api">Event Management Platform Backend</a>|
 | Feature-Based Module Organization            | <a href="https://github.com/justindeisler/boh-api">Event Management Platform Backend</a> & <a href="https://github.com/justindeisler/saas-platform">Supplier Onboarding SaaS Platform</a>|
 | Multi-Tenant SaaS Architecture               | <a href="https://github.com/justindeisler/saas-platform">Supplier Onboarding SaaS Platform</a>|
 | Multi-Step Approval Workflow Systems         | <a href="https://github.com/justindeisler/saas-platform">Supplier Onboarding SaaS Platform</a>|
 | Dynamic Questionnaire & Form Builder         | <a href="https://github.com/justindeisler/saas-platform">Supplier Onboarding SaaS Platform</a>|
 | Token-Based Passwordless Authentication      | <a href="https://github.com/justindeisler/saas-platform">Supplier Onboarding SaaS Platform</a>|
-| Express.js Backend Development               | <a href="https://github.com/justindeisler/saas-platform">Supplier Onboarding SaaS Platform</a>|
+| Express.js Backend Development               | <a href="https://github.com/justindeisler/personal-assistant-showcase">Personal Assistant</a> & <a href="https://github.com/justindeisler/saas-platform">Supplier Onboarding SaaS Platform</a>|
 | TanStack Query (React Query)                 | <a href="https://github.com/justindeisler/saas-platform">Supplier Onboarding SaaS Platform</a>|
 | Transactional Email Systems (Resend)         | <a href="https://github.com/justindeisler/saas-platform">Supplier Onboarding SaaS Platform</a>|
 | Full-Stack Web Development (Next.js)         | <a href="https://github.com/justindeisler/Photography-Portfolio-with-Admin-CMS">Photography Portfolio with Admin CMS</a>|
@@ -94,6 +100,14 @@ This methodology has proven instrumental across all portfolio projects, enabling
     <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?&style=for-the-badge&logo=tailwindcss&logoColor=white" />
     <img src="https://img.shields.io/badge/-Vite-646CFF?&style=for-the-badge&logo=vite&logoColor=white" />
     <img src="https://img.shields.io/badge/-Shadcn_UI-000000?&style=for-the-badge&logo=shadcnui&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Radix_UI-161618?&style=for-the-badge&logo=radixui&logoColor=white" />
+</div>
+
+### Desktop Applications
+<div>
+    <img src="https://img.shields.io/badge/-Tauri-FFC131?&style=for-the-badge&logo=tauri&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Progressive_Web_Apps-5A0FC8?&style=for-the-badge&logo=pwa&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Offline_First-FF6B35?&style=for-the-badge&logoColor=white" />
 </div>
 
 ### Mobile Development
@@ -110,6 +124,7 @@ This methodology has proven instrumental across all portfolio projects, enabling
     <img src="https://img.shields.io/badge/-Pydantic-E92063?&style=for-the-badge&logo=pydantic&logoColor=white" />
     <img src="https://img.shields.io/badge/-Supabase-3ECF8E?&style=for-the-badge&logo=supabase&logoColor=white" />
     <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?&style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SQLite-003B57?&style=for-the-badge&logo=sqlite&logoColor=white" />
     <img src="https://img.shields.io/badge/-Redis-DC382D?&style=for-the-badge&logo=redis&logoColor=white" />
     <img src="https://img.shields.io/badge/-REST_APIs-009688?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-JWT_Authentication-000000?&style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
@@ -198,6 +213,60 @@ This methodology has proven instrumental across all portfolio projects, enabling
 
 
 ## Projects
+
+### Personal Assistant
+
+**Production-ready personal productivity platform combining task management, financial tracking, calendar integration, and AI-powered automation featuring:**
+
+- **Comprehensive Task Management**: Full Kanban workflow with drag-and-drop, subtasks, tags, priorities, assignments (including AI agent tasks), time tracking, and GitHub activity integration for seamless project-code synchronization
+- **Financial Management Suite**: Complete accounting system with expense tracking, income recording, invoice generation with OCR scanning, asset management, client billing, automated DATEV export (German accounting standard), and tax-ready financial reports
+- **Smart Calendar Integration**: iCloud CalDAV sync with two-way event synchronization, smart scheduling, conflict detection, and recurring event management
+- **AI Agent Integration**: Dedicated AI assistant system with task assignment, autonomous execution, proactive suggestions engine, and real-time "Office" visualization showing agent activity and progress monitoring
+- **Second Brain System**: Markdown-based knowledge management with full-text search, tag organization, daily journals, and external note-taking tool integration for centralized information management
+- **Client Collaboration Dashboard**: Secure client portal with project transparency, invoice viewing, time entry approvals, and document sharing for enhanced client communication
+- **Social Media Management**: Content calendar, AI-assisted post generation, multi-platform scheduling (LinkedIn, Instagram), and engagement analytics tracking
+- **Cross-Platform Architecture**: Tauri-based native desktop application (macOS, Windows, Linux) with Progressive Web App support for offline-first mobile and web experiences
+- **Full-Stack Excellence**: React 18 + TypeScript + Vite frontend with Radix UI components and Tailwind CSS, Express.js + TypeScript backend with Better-SQLite3 embedded database, production-ready with 747 passing tests
+
+*Developed using advanced AI-assisted workflows with Claude Code, employing spec-driven development methodologies with comprehensive technical specifications, Model Context Protocol (MCP) integrations for deep codebase understanding and real-time documentation access, and AI agent workflows for architecture design, feature development, and automation while maintaining full technical ownership and architectural decision-making. Demonstrates mastery of full-stack development, AI agent orchestration, financial software architecture, and production-ready cross-platform application deployment.*
+
+**Technical Highlights:**
+- **Tauri + React Architecture**: Native desktop builds with web technology stack, file system access, OS integration (dialogs, shell commands)
+- **Offline-First Design**: Better-SQLite3 for local data persistence, PWA service workers for web offline support, background sync for changes
+- **JWT Authentication**: Access tokens (15min) + refresh tokens (7 days) with rotation, bcrypt password hashing (10 salt rounds), RBAC implementation
+- **AI Agent API**: Task delegation to autonomous AI agents (Markus for coding, Research Analyst, Business Strategist), session management, activity monitoring
+- **Financial Calculations**: Invoice generation with automatic numbering (RE-YYYY-XXX format), VAT handling, multi-currency support, DATEV export compliance
+- **OCR Pipeline**: Puppeteer + Sharp for invoice scanning, automated data extraction, vendor/item recognition
+- **iCloud CalDAV**: Two-way sync with Apple Calendar, event CRUD operations, recurrence pattern handling, time zone support
+- **Testing Suite**: 747 Vitest tests covering auth, CRUD, financial logic, GitHub integration, 70%+ API coverage, Supertest for HTTP endpoints
+- **Type Safety**: TypeScript strict mode across frontend and backend, Zod schemas shared for validation, comprehensive type coverage
+- **Security Features**: Helmet.js security headers, Express rate limiting (100 req/15min), SQL injection prevention via parameterized queries, XSS protection
+- **Production Deployment**: PM2 process management, Cloudflare Tunnel for secure access, systemd auto-start, self-hosted Ubuntu Server option
+- **GitHub Integration**: Import commits, PRs, and issues as tasks, activity timeline, rate limit handling with caching (5-15min TTL)
+- **Database Design**: 16 interconnected tables with foreign key constraints, indexed columns for performance, CASCADE deletes, JSON fields for metadata
+- **UI Components**: Radix UI primitives for accessibility, Framer Motion animations, TanStack Table for data grids, React Hook Form + Zod validation
+- **Responsive Design**: Mobile-first Tailwind CSS, PWA home screen installation, touch-optimized interfaces
+
+**Key Achievements:**
+- Architected full-stack Tauri application with unified React + TypeScript codebase serving both desktop and web platforms
+- Implemented production-ready financial management system with German DATEV accounting compliance and automated export
+- Built AI agent integration enabling task delegation and autonomous execution with visual activity monitoring
+- Created comprehensive authentication system with JWT access/refresh tokens, RBAC, and secure password handling
+- Designed offline-first architecture with PWA support, service workers, and background synchronization
+- Developed OCR pipeline for automated invoice and receipt scanning with data extraction
+- Established type-safe development pipeline with Zod schemas enforced across client and server
+- Deployed self-hosted solution with Cloudflare Tunnel bypassing ISP restrictions and PM2 process management
+- Achieved 747 passing tests covering critical business logic, auth flows, and API endpoints
+- Integrated iCloud CalDAV for seamless two-way calendar synchronization with Apple ecosystem
+- Created secure client collaboration portal with project tracking and document sharing
+- Built interactive "Office" visualization for real-time AI agent activity monitoring
+- Implemented GitHub activity import with commit, PR, and issue tracking integrated into task workflow
+- Developed Second Brain knowledge management system with markdown, full-text search, and tagging
+- Configured PWA with service workers, offline data persistence, and app-like mobile experience
+- Established production logging with Pino structured logs supporting development and production modes
+- Created comprehensive financial reporting with profit & loss, balance sheet, cash flow analysis, and tax summaries
+
+---
 
 ### Supplier Onboarding SaaS Platform
 
